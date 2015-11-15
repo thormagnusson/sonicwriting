@@ -7,7 +7,7 @@ baseurl: "http://thormagnusson.github.io/sonicwriting"
 url: "http://thormagnusson.github.io/sonicwriting"
 twitter_username: thormagnusson
 github_username:  thormagnusson
-facebook_username:  thor|magnusson
+facebook_username:  thorlmagnusson
 
 # Build settings
 markdown: kramdown
