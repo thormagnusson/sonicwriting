@@ -3,7 +3,7 @@ title: Sonic Writing
 header-img: img/home-bg.jpg
 email: t.magnusson@sussex.ac.uk
 description: "A research blog for the AHRC funded Sonic Writing research project"
-baseurl: "http://thormagnusson.github.io/sonicwriting"
+baseurl: "/sonicwriting"
 url: "http://thormagnusson.github.io/sonicwriting"
 twitter_username: thormagnusson
 github_username:  thormagnusson
