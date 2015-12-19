@@ -3,7 +3,7 @@ title: Sonic Writing
 header-img: img/home-bg.jpg
 email: th.list@gmail.com
 description: "A research blog for the AHRC funded Sonic Writing research project"
-baseurl: "/sonicwriting"
+baseurl: ""
 url: "http://thormagnusson.github.io/sonicwriting"
 twitter_username: thormagnusson
 github_username:  thormagnusson
