@@ -1,6 +1,10 @@
+
+/* THOR: this is the document to change for look */
+/* Original:font-family: 'Lora', 'Times New Roman', serif; */
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #404040;
 }
 p {
@@ -17,7 +21,7 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 600; /* the thickness of the header font */
 }
 a {
   color: #404040;
@@ -145,9 +149,11 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
-  .intro-header .post-heading,
   .intro-header .page-heading {
     padding: 150px 0;
+  }
+  .intro-header .post-heading{
+    padding: 115px 0; /*THOR: new;*/
   }
 }
 .intro-header .site-heading,
@@ -199,10 +205,10 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 55px;
+    font-size: 50px;
   }
   .intro-header .post-heading .subheading {
-    font-size: 30px;
+    font-size: 24px;
   }
 }
 .post-preview > a {
