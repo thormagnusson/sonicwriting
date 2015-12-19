@@ -32,9 +32,9 @@ enarmom*com, & mediom femttonit dizeront diefim; & fic illod genos</p>
 <p>sdf sdf</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/guido.jpg" alt="a guido score">
 </a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<span class="caption text-muted">follow events from left to right.</span>
 
 <p>aliam in doos tonos ot priot com qoatoor chordis, qood eft genos 
 enarmom*com, & mediom femttonit dizeront diefim; & fic illod genos</p>
