@@ -3,10 +3,10 @@
   <channel>
     <title>Sonic Writing</title>
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
-    <link>/sonicwriting//</link>
-    <atom:link href="/sonicwriting//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Feb 2016 16:57:32 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 16:57:32 +0000</lastBuildDate>
+    <link>http://thormagnusson.github.io/sonicwriting//</link>
+    <atom:link href="http://thormagnusson.github.io/sonicwriting//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 01 Feb 2016 17:46:51 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 17:46:51 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;Launching an extensive research project is exciting: feelings of anticipation, curiosity, and adventure coalseque with the agitation involving entering territories of the unknown. With me on the journey are two other research team members, &lt;a href=&quot;http://www.samduffysax.webspace.virginmedia.com/indexSamDuffySinger/Home.html&quot;&gt;Sam Duffy&lt;/a&gt; and &lt;a href=&quot;http://alexanderpeverett.com&quot;&gt;Alex Peverett&lt;/a&gt;, who are perfectly placed to make this journey both academically fruitful and fun. Here is to the next two years!&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 15:00:00 +0000</pubDate>
-        <link>/sonicwriting//blog/helloworld</link>
-        <guid isPermaLink="true">/sonicwriting//blog/helloworld</guid>
+        <link>http://thormagnusson.github.io/sonicwriting//blog/helloworld</link>
+        <guid isPermaLink="true">http://thormagnusson.github.io/sonicwriting//blog/helloworld</guid>
         
         
       </item>

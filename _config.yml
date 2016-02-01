@@ -9,7 +9,9 @@ url: "http://thormagnusson.github.io/sonicwriting/"
 twitter_username: thormagnusson
 github_username:  thormagnusson
 facebook_username:  thorlmagnusson
-
+gems:
+  - jekyll-feed
+  
 # Build settings
 markdown: kramdown
 highlighter: pygments
