@@ -4,7 +4,7 @@ copyright: Thor Magnusson
 header-img: img/home-bg.jpg
 email: th.list@gmail.com
 description: "A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media."
-baseurl: "/"
+baseurl: "/sonicwriting/"
 url: "http://thormagnusson.github.io/sonicwriting/"
 twitter_username: thormagnusson
 github_username:  thormagnusson
