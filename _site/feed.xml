@@ -3,11 +3,37 @@
   <channel>
     <title>Sonic Writing</title>
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
-    <link>http://thormagnusson.github.io/sonicwriting//</link>
-    <atom:link href="http://thormagnusson.github.io/sonicwriting//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Feb 2016 17:53:50 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 17:53:50 +0000</lastBuildDate>
+    <link>http://www.sonicwriting.org/</link>
+    <atom:link href="http://www.sonicwriting.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Feb 2016 16:09:40 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 16:09:40 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>ICLI 2016: The 3rd International Conference on Live Interfaces</title>
+        <description>&lt;p&gt;Members of the &lt;a href=&quot;http://www.miptl.org&quot;&gt;Music Informatics and Performance Technologies Lab&lt;/a&gt; at the University of Sussex are organising the 3rd &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;International Conference on Live Interfaces&lt;/a&gt;. This biennial conference began at the University of Leeds in 2012, and was then held in Lisbon in 2014. We are very excited to be hosting the third instance of this fantastic conference in Brighton this summer, at the University of Sussex.&lt;/p&gt;
+
+&lt;p&gt;The conference website can be found here: &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;http://www.liveinterfaces.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The ICLI conference is an interdisciplinary summit that focusses on performance technologies in all artistic human activities. There are more bespoke conferences on new interfaces in music (such as &lt;a href=&quot;http://www.nime.org&quot;&gt;NIME&lt;/a&gt;), but ICLI is unique in that it aims to understand how the different art forms engage with concepts of interface, embodiment, live performance, improvisation and technical skill. We can learn much from each other as practitioners in the diverse art forms, and there was a bespoke need in creating this platform.&lt;/p&gt;
+
+&lt;p&gt;In order to stress the interdisciplinary nature of the conference, we have invited keynote speakers from three distinct fields of practice: &lt;a href=&quot;http://tinything.com/&quot;&gt;Kristina Andersen&lt;/a&gt; (music), &lt;a href=&quot;http://stuartnolan.com&quot;&gt;Stuart Nolan&lt;/a&gt; (magic), and &lt;a href=&quot;http://watermillcenter.org/residency/roman-paska&quot;&gt;Roman Paska&lt;/a&gt; (puppetry). We are hoping the diversity of topics listed in the call will encourage people from as diverse performing art forms as dance, puppetry, music, performance art, magic, computer games, comedy, visual arts, video art, and many more. The boundaries are fuzzy, of course, as some might argue that live interfaces are also used in expressive ways in martial arts, religious ceremonies, or gastronomy, to name but a few examples, but we will await decisions from our excellent reviewer team to define what kind of conference this will be.&lt;/p&gt;
+
+&lt;p&gt;The conference will include the potential for a strong public involvement, where people will be able to attend special events during the conference or getting a day ticket for selected days. The conference will be one of the first public engagement activities of the newly refurbished &lt;a href=&quot;http://www.sussex.ac.uk/acca/&quot;&gt;ACCA&lt;/a&gt; (Attenborough Centre for Creative Arts), and the event benefits from the strong support by its creative director, Paula McDermott.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/acca.jpg&quot; alt=&quot;inspecting ACCA&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Some members of the ICLI team inspecting the conference location at ACCA (Attenborough Centre for Creative Arts).&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;We are very excited about two resonating instruments workshops that will take place before the conference starts. During these workshops, composers and performers will be teamed up to study, compose and perform on two quite unique instruments: the &lt;a href=&quot;http://www.halldorulfarsson.info/halldorophones/about-halldorophones&quot;&gt;halldorophone&lt;/a&gt; and the &lt;a href=&quot;http://www.eecs.qmul.ac.uk/~andrewm/mrp.html&quot;&gt;Magnetic Resonator Piano&lt;/a&gt;. These sessions will be lead by the instrument designers Halldor Ulfarsson and Andrew McPherson, together with skilled performers &lt;a href=&quot;http://www.ecila.org&quot;&gt;Alice Eldridge&lt;/a&gt; and &lt;a href=&quot;http://sarahnicolls.com&quot;&gt;Sarah Nicolls&lt;/a&gt;. There will be other workshops during the conference, but those will be proposed through the submissions and go through our peer review process.&lt;/p&gt;
+
+&lt;p&gt;The deadline for submissions has been extended to February 21st, so please consider submitting a performance proposal, a paper, a workshop, an installation or participate in the doctoral colloquium. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 15:00:00 +0000</pubDate>
+        <link>http://www.sonicwriting.org/blog/icli</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/icli</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hello World: Launching the Sonic Writing Project</title>
@@ -22,8 +48,8 @@
 &lt;p&gt;Launching an extensive research project is exciting: feelings of anticipation, curiosity, and adventure coalseque with the agitation involving entering territories of the unknown. With me on the journey are two other research team members, &lt;a href=&quot;http://www.samduffysax.webspace.virginmedia.com/indexSamDuffySinger/Home.html&quot;&gt;Sam Duffy&lt;/a&gt; and &lt;a href=&quot;http://alexanderpeverett.com&quot;&gt;Alex Peverett&lt;/a&gt;, who are perfectly placed to make this journey both academically fruitful and fun. Here is to the next two years!&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 15:00:00 +0000</pubDate>
-        <link>http://thormagnusson.github.io/sonicwriting//blog/helloworld</link>
-        <guid isPermaLink="true">http://thormagnusson.github.io/sonicwriting//blog/helloworld</guid>
+        <link>http://www.sonicwriting.org/blog/helloworld</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/helloworld</guid>
         
         
       </item>

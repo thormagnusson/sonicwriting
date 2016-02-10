@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "ICLI 2016: The 3rd International Conference on Live Interfaces"
+date:       2016-02-10 15:00:00
+author:     "Thor Magnusson"
+header-img: "img/icli.jpg"
+twitter: True
+comments: True
+---
+
+<p>Members of the <a href="http://www.miptl.org">Music Informatics and Performance Technologies Lab</a> at the University of Sussex are organising the 3rd <a href="http://www.liveinterfaces.org">International Conference on Live Interfaces</a>. This biennial conference began at the University of Leeds in 2012, and was then held in Lisbon in 2014. We are very excited to be hosting the third instance of this fantastic conference in Brighton this summer, at the University of Sussex.</p>
+
+<p>The conference website can be found here: <a href="http://www.liveinterfaces.org">http://www.liveinterfaces.org</a></p>
+
+<p>The ICLI conference is an interdisciplinary summit that focusses on performance technologies in all artistic human activities. There are more bespoke conferences on new interfaces in music (such as <a href="http://www.nime.org">NIME</a>), but ICLI is unique in that it aims to understand how the different art forms engage with concepts of interface, embodiment, live performance, improvisation and technical skill. We can learn much from each other as practitioners in the diverse art forms, and there was a bespoke need in creating this platform.</p>
+
+<p>In order to stress the interdisciplinary nature of the conference, we have invited keynote speakers from three distinct fields of practice: <a href="http://tinything.com/">Kristina Andersen</a> (music), <a href="http://stuartnolan.com">Stuart Nolan</a> (magic), and <a href="http://watermillcenter.org/residency/roman-paska">Roman Paska</a> (puppetry). We are hoping the diversity of topics listed in the call will encourage people from as diverse performing art forms as dance, puppetry, music, performance art, magic, computer games, comedy, visual arts, video art, and many more. The boundaries are fuzzy, of course, as some might argue that live interfaces are also used in expressive ways in martial arts, religious ceremonies, or gastronomy, to name but a few examples, but we will await decisions from our excellent reviewer team to define what kind of conference this will be.</p>
+
+<p>The conference will include the potential for a strong public involvement, where people will be able to attend special events during the conference or getting a day ticket for selected days. The conference will be one of the first public engagement activities of the newly refurbished <a href="http://www.sussex.ac.uk/acca/">ACCA</a> (Attenborough Centre for Creative Arts), and the event benefits from the strong support by its creative director, Paula McDermott.</p>
+
+<img src="{{ site.baseurl }}/img/acca.jpg" alt="inspecting ACCA">
+<span class="caption text-muted">Some members of the ICLI team inspecting the conference location at ACCA (Attenborough Centre for Creative Arts).</span>
+
+<p>We are very excited about two resonating instruments workshops that will take place before the conference starts. During these workshops, composers and performers will be teamed up to study, compose and perform on two quite unique instruments: the <a href="http://www.halldorulfarsson.info/halldorophones/about-halldorophones">halldorophone</a> and the <a href="http://www.eecs.qmul.ac.uk/~andrewm/mrp.html">Magnetic Resonator Piano</a>. These sessions will be lead by the instrument designers Halldor Ulfarsson and Andrew McPherson, together with skilled performers <a href="http://www.ecila.org">Alice Eldridge</a> and <a href="http://sarahnicolls.com">Sarah Nicolls</a>. There will be other workshops during the conference, but those will be proposed through the submissions and go through our peer review process.</p>
+
+<p>The deadline for submissions has been extended to February 21st, so please consider submitting a performance proposal, a paper, a workshop, an installation or participate in the doctoral colloquium. </p>
