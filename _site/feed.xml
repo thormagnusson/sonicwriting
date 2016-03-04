@@ -5,9 +5,50 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://www.sonicwriting.org/</link>
     <atom:link href="http://www.sonicwriting.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Feb 2016 16:19:23 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2016 16:19:23 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Mar 2016 10:48:20 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 10:48:20 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>On Critical Music Technology</title>
+        <description>&lt;p&gt;Teaching music in Higher Education, in particular musical practices that make use of computers as tools for performance and composing, one cannot help but notice how colleagues in diverse universities across the country complain about the received definition of &quot;music technology.&quot; This definition frames music technology as the production of music made with a specific set of equipment; a musical practice that excludes wider activities, such as note-based composition, live performance, or the non-linear music found in apps and games. Colleagues often report on how the first meeting with new students involves an encouragement for a more open minded approach to musical composition and performance with new digital technologies. The question often asked is where this narrow concept of music technology originates from?
+
+&lt;p&gt;We could attempt to find an answer by examining how the subject called &quot;music technology&quot; is taught in secondary education. Here, we become acutely aware of a rather narrow focus and it interesting to discover that &lt;a href=&quot;https://www.gov.uk/government/organisations/ofqual&quot;&gt;Ofqual&lt;/a&gt; has recently forged a stronger separation in the subject criteria for Music and Music Technology. This is done by means of a definintion of the &lt;a href=&quot;http://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-technology-2008.news.html?article=%2Fcontent%2Fdemo%2Fen%2Fnews-policy%2Fqualifications%2Fa-levels%2Fmusic-technology%2Fas-a-level-music-technology-subject-criteria-consultation-now-open&quot;&gt; criteria for Music Technology&lt;/a&gt; into four separate themes that have now been confirmed in an &lt;a href=&quot;https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/504470/First_Teach_2017_Part_1_-_decisions_document_including_sociology.pdf&quot;&gt; Ofcom document&lt;/a&gt; to be implemented in 2017. Here the four themes have become the following Assessment Objectives:
+
+&lt;blockquote&gt;
+	&lt;ul&gt;
+&lt;li&gt;Demonstrate use of music technology to capture, edit and produce recordings&lt;/li&gt;
+&lt;li&gt;Demonstrate use of music technology to create, edit and structure sounds to develop a technology based composition&lt;/li&gt;
+&lt;li&gt;Demonstrate and apply knowledge and understanding of music technology&lt;/li&gt;
+&lt;li&gt;Use analytical and appraising skills to make evaluative and critical judgements about the use of music technology&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a document published in January 2016, called &lt;a href=&quot;https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/504026/GCSE_A_level_reform_subject_content_government_response.pdf&quot;&gt;Reformed GCSE, AS and A level subjects&lt;/a&gt;, we read that government policy is to increase &quot;emphasis on theoretical, technical and scientific understanding&quot; (p.38) with more &quot;mathematics and technical content.&quot; The idea is to create a stronger identity and separation between Music and Music Technology as two distinct disciplines. This is achieved by removing &quot;content which overlapped with AS and A level music as this created a rigorous subject with its own distinct knowledge and understanding.&quot; And one wonders whether performance and composition are amongst the excluded content. 
+
+&lt;p&gt;In any case, it is evident that musical performance, written notated music, the design of new instruments, generative music, music for the moving image, live coding, sound installations, or sound design and music for computer games are greatly under-represented. This is an education that focuses on a specific set of equipment, where the producer is a consumer of technologies that are beyond the user to adopt or change (unlike what we saw in the studio activities of George Martin or Lee Scratch Perry). Indeed, the Ofqual documents suggest that the curriculum is designed for a 20th century music industry that has now been superseded with a much more diverse, energetic, and interdisciplinary field. 
+
+&lt;p&gt;Needless to say that all the work we do in higher education aiming to correct the gender imbalance in music technology degrees is not helped by this type of language. My experience is that a holistic language that includes references to creativity, performance, art, audience, culture, collaboration, and communication will attract a much wider demography than a language centred on equipment and scientific terminology. (An excellent study on diversity in music technology is Georgina Born and Kyle Devine&#39;s article &quot;Music Technology, Gender, and Class: Digitization, Educational and Social Change in Britain&quot; in the 20th Century Music Journal).
+
+&lt;p&gt;&lt;img src=&quot;/img/mixer.jpg&quot; alt=&quot;a mixer&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;A familiar &quot;music technology&quot; iconography.&lt;/span&gt;
+
+&lt;p&gt;The above illustrates the need for some critical re-thinking of what music technologies actually are. The common connotation of “music technology,” involves plastic- or metal-surfaced equipment offering interaction through rotating knobs, sliders, or buttons, which are mapped to functionality represented on a screen of some sort. It is the space-ship interface for powerful control over sound. However, a quick etymology of the word “technology” clearly demonstrates that we are not discussing plastic gadgets here, but rather an embodied knowledge, skill or craft. The roots of the Greek word &lt;i&gt;technê&lt;/i&gt; is “wood,” but at the time of the early philosophers, it had begun to denote the craft of producing something out of something else. For Aristotle, &lt;i&gt;technê&lt;/i&gt; is an activity where the &lt;i&gt;“origin is in the maker and not in the thing made.”&lt;/i&gt; In his work Rhetorics, Aristotle uses the word “technology” to signify the “craft of the word” (techne and logos) as used in grammar or rhetorics, which is an inverse meaning to the later use signifying the knowledge (logy) of craft (techne). The word is not used much until the 17th century, which is when it enters the English language. At no point did the word signify objects, but rather the skill of doing things, as evidenced Marx’s Das Kapital: &lt;i&gt;“Technology discloses man’s mode of dealing with Nature, the process of production by which he sustains his life, and thereby also lays bare the mode of formation of his social relations, and of the mental conceptions that flow from them.”&lt;/i&gt; Earlier in the same paragraph we read: &lt;i&gt;“Darwin has interested us in the history of Nature’s Technology,”&lt;/i&gt; and it is clear that he means the ways nature goes about its business. Bernard Stiegler defines technology as &lt;i&gt;“the discourse describing and explaining the evolution of specialised procedures and techniques, arts and trades”&lt;/i&gt; and encourages us to use the word in the manner we apply the words “psychology” or “sociology”.
+
+&lt;p&gt;We &lt;i&gt;do&lt;/i&gt; music technology: we don’t buy it, own it, or use it. Thinking, designing, discussing, performing and composing are all acts of music technological nature. Musical instruments, musical notation, recording equipment and media players are the tools of music technology and represent the musico-theoretical framework of each culture. In this context we observe that musical instruments are indeed amongst the earliest human technologies. Possibly preceding fire and weaponry, we could speculate how early humans used rocks or sticks to hit other materials in order to define territories, communicate, or synchronise movements. Some of the oldest known musical instruments are flutes found in Germany (the &lt;i&gt;Hohle Fels&lt;/i&gt; flute) and Slovenia (the &lt;i&gt;Divje Babe&lt;/i&gt; flute), thought to be between 35,000 and 42,000 years old. Preceding those flutes would be generations of forgotten instruments in the form of rocks and sticks which might not even “look like” musical instruments at all, but they represent the music technologies of the time. 
+
+&lt;p&gt;To do music technology thus involves studying the environment in which new music is produced, critically reflecting upon how musical practices are determined by the tools at hand, which, in turn, are also conditioned by what we do with them. But more importantly, it means to perform, improvise, collaborate and redefine equipment for new contexts and explore their musical limits. The history of the saxophone is a good example of how undefined a musical instrument can be at first, slowly gaining a function amongst different musical cultures such as military bands and jazz. In this context it is interesting to behold Attali’s statement that in &lt;i&gt;“music, the instrument often predates the expression it authorizes, which explains why a new invention has the nature of noise; a ‘realized theory’ (Lyotard), it contributes, through the possibilities it offers, to the birth of a new music, a renewed syntax.”&lt;/i&gt; 
+
+&lt;p&gt;A critical questioning of music technology implies the study of how our music technologies are conditioned by the complex interrelationship of aesthetics, science, culture, and equipment. We should embrace the fact that music techno-logy is the knowledge of the craft of music, and that craft has traditionally, for at least 40 millennia, been about performing music, about people gathering together to play, share, contribute, live the moment, and enjoy the unexpected. The design and use of a bone flute, a lute, a musical score, or a digital audio workstation are all good examples of music technology. Now, by entering the 21st century we bring all that baggage with us, but let&#39;s unpack it in the context of new musical practices - of new musical technologies.
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 2016 15:00:00 +0000</pubDate>
+        <link>http://www.sonicwriting.org/blog/musictechnology</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/musictechnology</guid>
+        
+        
+      </item>
     
       <item>
         <title>ICLI 2016: The 3rd International Conference on Live Interfaces</title>
@@ -29,8 +70,8 @@
 &lt;p&gt;The deadline for submissions has been extended to February 21st, so please consider submitting a performance proposal, a paper, a workshop, an installation or participate in the doctoral colloquium. &lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Feb 2016 15:00:00 +0000</pubDate>
-        <link>http://www.sonicwriting.org/blog/icliconf</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/icliconf</guid>
+        <link>http://www.sonicwriting.org/blog/icli</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/icli</guid>
         
         
       </item>
