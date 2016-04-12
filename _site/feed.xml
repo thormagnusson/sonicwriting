@@ -5,9 +5,38 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://www.sonicwriting.org/</link>
     <atom:link href="http://www.sonicwriting.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Mar 2016 18:45:48 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 18:45:48 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 12:54:47 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 12:54:47 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Musical Organics: A Symposium on Instrument Design</title>
+        <description>&lt;p&gt;On May 5th, a group of people will meet at STEIM in Amsterdam at a symposium called &lt;a href=&quot;http://www.sonicwriting.org/steim.html&quot;&gt;Musical Organics&lt;/a&gt;. The aim with the symposium is to question what instrument design means in the current age of new materials and media. Through a genealogical enquiry we hope to outline traces of design patterns that extend through histories of musical cultures, and observe how these are translated or transduced by the migration into the seemingly infinite space offered by digital media. The symposium features presentations by a violin luthier, an artist instrument maker, engineers, designers, live coders, composers, and performers. Common to all these people is an interdisciplinary approach that crosses professional boundaries, through a practice that reaches beyond the granularity of our current language. The new materialities require new languages.
+
+&lt;p&gt;Traditional organology (the science of musical instruments) is a study of the history and classification of musical instruments. Diverse classification schemes have been proposed, extending back to the ancient Greeks, who proposed a three-fold system of wind, string and percussion instruments. These organologies are hierarchical, with diverse levels, classes and branches. Some of these systems are incredibly nuanced, for example Montagu and Burton&#39;s scheme that has the following tree structure: kingdom (all noise makers), sub-kingdom (airophones, chordophones, membranophones, and idiophones), super-phylum (e.g., struck idiophones), phylum, class, order, sub-order, family, sub-family, genus, species, sub-species, and variety. There is a clear inheritance here to the classificatory metaphysics we find in Aristotle&#39;s &lt;i&gt;categories&lt;/i&gt;, which later became represented by classical tree structure hierarchies, known in medieval times as &lt;i&gt;Arbor Porphyriana&lt;/i&gt; (or the Tree of Porphyry).
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/arbor.jpg&quot; alt=&quot;The Tree of Porphyry&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;The classificatory philosophical tree of &lt;a href=&quot;https://commons.wikimedia.org/wiki/File%3AArborLulle.jpg&quot;&gt;Lully&lt;/a&gt;, based on Porphyry&#39;s &lt;i&gt;Isagoge&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
+
+&lt;p&gt;The most common and well known organology is the system proposed by Sachs and Hornbostel in 1914. This system expands the early Greek one, and defines &lt;i&gt;idiophones&lt;/i&gt;, &lt;i&gt;membranophones&lt;/i&gt;, &lt;i&gt;chordophones&lt;/i&gt;, and &lt;i&gt;aerophones&lt;/i&gt;. This organology allows for a clear typological tracing down to the unique features of the individual instrument, where, for example, the numerical denominator of 111.242.222 would refer to sets of hanging bells with internal strikers (1 = idiophone; 11 = struck idiophone; 111 = idiophones struck directly; 111.2 = percussion idiophones; 111.24 = percussion vessels; 111.242 = bells; 111.242.2 = sets of bells; 111.242.22 = sets of suspended bells; 111.242.222 = sets of clapper bells). This classification system, with such a nuanced cataloguing of instruments, is clearly useful for museums, historians, anthropologists, and some musicologists (I say &#39;some&#39;, as there has arguably been a gap between Western organology and musicology, a symptom of the rift we find in phiosophy between &lt;i&gt;episteme&lt;/i&gt; and &lt;i&gt;techne&lt;/i&gt;, as introduced by Plato). 
+
+&lt;p&gt;&lt;img src=&quot;/img/kirscher.jpg&quot; alt=&quot;Kirscher&#39;s Aeolian Harp&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Kirscher&#39;s &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008349_Akustik_%5E_Schall_%5E_Harfe_%5E_Aeolsharfe_%5E_Windharfe_%5E_Musikinstrument_%5E_Saiteninst.jpg&quot;&gt;Aeolian Harp&lt;/a&gt; from 1684 is an example of an instrument that breaks traditional organologies, as acknowledged by Sachs and Hornbostel in the introduction to their original work&lt;/span&gt;
+
+&lt;p&gt;In 1940, Sachs added the fifth category to the scheme, the &lt;i&gt;electrophone&lt;/i&gt;. This was in turn divided into three sub-categories: electric-action, electro-mechanical, and radioelectric. Other organologists have continued applying the electrophone category and developing it. But here is the problem: with digital media, we get a material substance of such a plastic and dynamic nature - due to the computer being a meta-machine - that the concept of electrophone is clearly becoming inadequate. The introduction of a category like &lt;i&gt;digitophone&lt;/i&gt; or &lt;i&gt;digiphone&lt;/i&gt; would not solve many problems. The fact is that digital musical systems, as implemented in software for computers, integrated in hardware, or in the form of mobile apps, are so open and diverse, deriving their design patterns from an extremely heterogeneous sources of musical technics, that fitting them into genealogical trees of tradititional organologies is an unworkable task. This impossibility is amplified further by the fact that the digiphones (if we are to temporarily entertain that organological category) equally originate from the worlds of digital design, human-computer interaction, and computer games. Such an organology would therefore have to be a project of interdisciplinary and intermedia nature.
+
+&lt;p&gt;For this reason, and instead of improved organologies, we organise a symposium on musical organics: an attempt at exploring and framing the ecosystems of musical technics as a reticulated web - one that hybridises older organologies, continually borrowing, referencing, appropriating, and representing the techniques incorporated in human movement. This would be a heterarchical organology - a contradiction in terms - and thus the symposium name of &lt;i&gt;Musical Organics&lt;/i&gt;, referencing soil, plants, flowers, or perhaps the ultra-famous &lt;a href=&quot;https://www.youtube.com/watch?v=gnteiRO-XfU&quot;&gt;rhizome&lt;/a&gt;. This move mirrors Umberto Eco&#39;s criticism of the dictionary in favour of the more organisationally flexible scheme of the encyclopedia.
+
+
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 14:00:00 +0100</pubDate>
+        <link>http://www.sonicwriting.org/blog/musicalorganics</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/musicalorganics</guid>
+        
+        
+      </item>
     
       <item>
         <title>On Critical Music Technology</title>
