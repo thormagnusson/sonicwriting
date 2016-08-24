@@ -19,7 +19,7 @@ Fiebrink is an expert in machine learning and has created systems using neural n
 <li><b>Andrew McPherson</b> - <u><a href = "http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson">http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson</a></u><br>
 How can computer algorithms add to and shape musical performance? Can instruments learn about the performers playing them? Can they contribute to the playing? Andrew will bring the NIME (New Instruments for Musical Expression) expertise to this round-table.
 
-<li><b>Bob Sturm</b> - <u><a href = "http://www.eecs.qmul.ac.uk/people/view/21069/dr-bob-sturm">http://www.eecs.qmul.ac.uk/people/view/21069/dr-bob-sturm</a></u><br>
+<li><b>Bob Sturm</b> - <u><a href = "http://www.eecs.qmul.ac.uk/~sturm/">http://www.eecs.qmul.ac.uk/~sturm/</a></u><br>
 Sturm’s research seeks to interrogate the “creative” and/or “intelligent” machine. Though a machine may appear creative and/or intelligent, what has it <i>actually</i> learned to do? How can it be changed to do what we want it to do? Sturm will discuss various approaches to answering these questions, and how such "learned machines" can provide useful assistance and inspiration to the human creator.
 
 
