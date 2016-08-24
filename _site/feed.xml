@@ -5,9 +5,63 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://www.sonicwriting.org/</link>
     <atom:link href="http://www.sonicwriting.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 May 2016 18:44:54 +0100</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 18:44:54 +0100</lastBuildDate>
+    <pubDate>Wed, 24 Aug 2016 12:21:43 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2016 12:21:43 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Machine Creativity Roundtable at IASPM in Brighton</title>
+        <description>&lt;p&gt;We present a roundtable on Machine Creativity as part of the &lt;u&gt;&lt;a href=&quot;http://www.iaspm.org.uk/conference2016&quot;&gt;IASPM conference&lt;/a&gt;&lt;/u&gt; co-organised by the &lt;u&gt;&lt;a href=&quot;http://www.sussex.ac.uk/music/&quot;&gt;Sussex Music Department&lt;/a&gt;&lt;/u&gt; and &lt;u&gt;&lt;a href=&quot;http://www.bimm.co.uk/brighton/&quot;&gt;BIMM&lt;/a&gt;&lt;/u&gt;. The idea is to set up a dialogue between researchers of machine creativity and popular music to further understanding between the respective fields. Members of the round table are:&lt;/p&gt;
+
+&lt;li&gt;&lt;b&gt;Elaine Chew&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/~eniale/&quot;&gt;http://www.eecs.qmul.ac.uk/~eniale/&lt;/a&gt;&lt;/u&gt;
+Using formal scientific methods, Chew’s research centers on the design of mathematical and computational tools to model, analyze, and visualize music structures. 
+
+&lt;li&gt;&lt;b&gt;Rebecca Fiebrink&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths&quot;&gt;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+Fiebrink is an expert in machine learning and has created systems using neural networks that can quickly learn gestural and compositional styles of performers and composers. 
+
+&lt;li&gt;&lt;b&gt;Andrew McPherson&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson&quot;&gt;http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+How can computer algorithms add to and shape musical performance? Can instruments learn about the performers playing them? Can they contribute to the playing? Andrew will bring the NIME (New Instruments for Musical Expression) expertise to this round-table.
+
+&lt;li&gt;&lt;b&gt;Bob Sturm&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/21069/dr-bob-sturm&quot;&gt;http://www.eecs.qmul.ac.uk/people/view/21069/dr-bob-sturm&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+Sturm’s research seeks to interrogate the “creative” and/or “intelligent” machine. Though a machine may appear creative and/or intelligent, what has it &lt;i&gt;actually&lt;/i&gt; learned to do? How can it be changed to do what we want it to do? Sturm will discuss various approaches to answering these questions, and how such &quot;learned machines&quot; can provide useful assistance and inspiration to the human creator.
+
+
+&lt;li&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; (chair) - &lt;u&gt;&lt;a href=&quot;http://www.sussex.ac.uk/profiles/164902&quot;&gt;http://www.sussex.ac.uk/profiles/164902&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intelligence, focusing on music software and the role of computers in musical creativity. &lt;/li&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/iaspm.png&quot; alt=&quot;The Tree of Porphyry&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;IASPM 2016 conference poster&lt;/span&gt;&lt;/center&gt;
+
+&lt;p&gt;The abstract for our roundtable is the following:&lt;/p&gt;
+
+&lt;cite&gt;&lt;p&gt;Recent academic fields such as software studies, digital humanities, and the philosophy of technology have directed focus on big data, machine agency, and the role of algorithms in contemporary culture. We are slowly gaining a clearer understanding of the power, as well as pitfalls, of machinic involvement in daily human tasks. With machines that learn and communicate, we will see their powers used in domains that were seen as exclusively human, for example artistic creativity. However, the use of computational creativity in the domain of music is nothing new and one of the earliest computer music compositions - the Illiac Suite by Hiller and Isaacson - was composed applying Artificial Intelligence techniques.&lt;/p&gt;
+
+&lt;p&gt;Machine creativity in the creative process can range from minor &quot;suggestions&quot; in filtering or mixing, or intelligent mapping between a controller and a sound generator, to a stronger involvement where the computer aids in writing in the style of a certain genre or a composer, even composing a whole musical piece without any human involvement. This raises both technical and philosophical questions about the nature of composition, performance, and creativity in general.&lt;/p&gt;
+
+&lt;p&gt;This proposed round-table addresses recent developments in machine learning, musical corpus analysis, and related computational creativity techniques. The session includes specialists in  machine creativity, who will present and discuss diverse aspects of how computers will be more involved in the creative process of future musical works. The panel will explore the potential of computational creativity in the musical domain, ranging from the use of AI in musical instruments, musical corpus analysis for deeper understanding and regeneration of music, and the use of AI for non-human music. The potential of semantic audio techniques will be questioned for the domains of film music, game sound and other fields where music has a specific context-aware functionality.&lt;/p&gt;
+
+&lt;p&gt;The round-table will also discuss the role of the listener when musical works become open for interaction. How do new computational playback devices, in the form of mobile media, enable the listener to become part of the creative process of generating the music? What do these new technologies afford to composers, and how will they use AI as part of the new compositional context? &lt;/p&gt;&lt;/cite&gt;
+
+&lt;p&gt;We will be discussing questions of computuational creativity and machine learning, and hoping to open up a dialogue with specialist in popular music studies. Some of the topics discussed include:&lt;br /&gt;
+&lt;li&gt; How is machine creativity being best applied in the field of music?
+&lt;li&gt; Does machine creativity belong equally in performance and in composition/studio work?
+&lt;li&gt; What is creativity? How does this concept operate in your field of research?
+&lt;li&gt; Under which conditions can we declare a machine to be creative?
+&lt;li&gt; What can a machine do that humans can&#39;t?
+&lt;li&gt; Is there a difference in how computational algorithms would engage with established genres vs. experimental music?
+&lt;li&gt; Wherein lies the art of music making? Will it perhaps always escape the machine?
+
+&lt;p&gt;Our session will be at &lt;b&gt;1pm, on Saturday 10th of September&lt;/b&gt;. See full programme &lt;u&gt;&lt;a href=&quot;http://www.iaspm.org.uk/iaspm/wp-content/uploads/2016/04/IASPM_Brighton_Schedule.pdf&quot;&gt;here&lt;/a&gt;&lt;/u&gt;.&lt;/p&gt;
+
+&lt;p&gt;The header image of this post is Al-Jazari&#39;s Diagram of a hydropowered perpetual flute from &lt;i&gt;The Book of Knowledge of Ingenious Mechanical Devices&lt;/i&gt; from 1206. From &lt;a href=&quot;https://commons.wikimedia.org/wiki/File%3AAl-jazari_water_device.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+</description>
+        <pubDate>Wed, 24 Aug 2016 14:00:00 +0100</pubDate>
+        <link>http://www.sonicwriting.org/blog/machinecreativity</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/machinecreativity</guid>
+        
+        
+      </item>
     
       <item>
         <title>Musical Organics: A Symposium on Instrument Design</title>
