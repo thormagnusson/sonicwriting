@@ -11,8 +11,7 @@ comments: True
 We present a roundtable on Machine Creativity as part of the <u><a href = "http://www.iaspm.org.uk/conference2016">IASPM conference</a></u> co-organised by the <u><a href = "http://www.sussex.ac.uk/music/">Sussex Music Department</a></u> and <u><a href = "http://www.bimm.co.uk/brighton/">BIMM</a></u>. The idea is to set up a dialogue between researchers of machine creativity and popular music to further understanding between the respective fields. Members of the round table are:
 
 <li><b>Elaine Chew</b> - <u><a href = "http://www.eecs.qmul.ac.uk/~eniale/">http://www.eecs.qmul.ac.uk/~eniale/</a></u>
-Using formal scientific methods, Chew’s research centers on the design of mathematical and computational tools to model, analyze, and visualize music structures. 
-
+Chew is a musician (pianist) and mathematician (operations researcher) who designs mathematical and computational tools to model, analyse, and visualise music structures: structures constructed in the process of listening, performing, composing, and improvising.
 <li><b>Rebecca Fiebrink</b> - <u><a href = "http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths">http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths</a></u><br>
 Fiebrink is an expert in machine learning and has created systems using neural networks that can quickly learn gestural and compositional styles of performers and composers. 
 
