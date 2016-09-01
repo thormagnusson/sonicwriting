@@ -5,24 +5,76 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://www.sonicwriting.org/</link>
     <atom:link href="http://www.sonicwriting.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Aug 2016 12:21:43 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Aug 2016 12:21:43 +0100</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2016 13:43:56 +0100</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2016 13:43:56 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>New Notations Symposium @ IRCAM</title>
+        <description>&lt;p&gt;As part of the Sonic Writing research project, we are organising a symposium with &lt;a href=&quot;http://www.ircam.fr&quot;&gt;IRCAM&lt;/a&gt;, Paris, on September 22nd, 2016. Further information on the symposium website: &lt;a href=&quot;http://www.sonicwriting.org/ircam.html&quot;&gt;New Notations Symposium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The focus is on new notational practices in the context of recent developments in new instruments and media and key topics will address different aspects of musical instrumentalities:&lt;/p&gt;
+
+&lt;li&gt;notation and tradition - how does a notational language evolve?
+&lt;li&gt;new instruments - how does the role of notation change with new technologies?
+&lt;li&gt;the symbol and the material - do new ergonomic and timbral affordances require new symbolism?
+&lt;li&gt;the evolving instrument - how do we compose for evolving technologies?
+&lt;li&gt;notation in screen-based and computational media - what are the qualities of dynamic scores?
+&lt;li&gt;graphic notation, live notation, animated notation - how does concept of &quot;liveness&quot; change?
+&lt;li&gt;education and learning - how do we learn new notations for new digital instruments?
+&lt;li&gt;audience understanding - how do we communicate what a notation system does?
+&lt;li&gt;how does a notation system evolve, and how do we understand that evolution?
+&lt;li&gt;what does a musical notation system mediate?
+&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/einar.png&quot; alt=&quot;From Desiring Machines&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;An extract of Einar Torfi Einarsson&#39;s work &lt;i&gt;Desiring Machines&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
+
+The symposium blurb:&lt;br /&gt;
+&lt;cite&gt;
+&lt;p&gt;The &lt;a href=&quot;http://www.sonicwriting.org/ircam.html&quot;&gt;New Notations Symposium&lt;/a&gt; at IRCAM explores current notational practices in the writing for new instruments and media. The aim is to study the changes in notational strategies that are brought forward with new music technologies, where graphics, animation, and algorithmic techniques offer extended compositional possibilities. Musical notation and instruments evolve in parallel, and we find that in much contemporary work, the notation system becomes part of the instrument, or even an integral part of the musical piece itself. Processor-based media enable dynamic score systems that are applied to generate musical events in real-time or respond to instrumental performances in ways traditional media are not capable of.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, with the increased analytical power gained with machine listening technologies, we find that auxillary notations of timbre, gesture, and affect become important aspects of the &quot;writing&quot; of a musical work. Contemporary composers study this potential of new notation, and this symposium looks into the design of new instruments from ergonomic and timbral perspectives and studies how musical notation develops in concert with these changes.&lt;/p&gt;
+
+&lt;p&gt;Symposium topics include musical notation for new instruments, secondary notation, graphic or algorithmic notation, live and animated notation, usability, sustainability and legacy, tradition, issues of learning, audience communication, and more. The symposium consists of presentations, performances, and discussions. It is an open event, as long as space is available. For people interested in participating in the symposium, please fill in the registration form below.&lt;/p&gt;
+&lt;/cite&gt;
+
+&lt;p&gt;Presenters at the symposium are:&lt;br /&gt;
+
+&lt;a href=&quot;http://ultranoise.es/blog/&quot;&gt;Enrique Tomás&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.claudiamolitor.org&quot;&gt;Claudia Molitor&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://frederic-bevilacqua.net&quot;&gt;Frédéric Bevilacqua&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.uitti.org&quot;&gt;Frances-Marie Uitti&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.orpheusinstituut.be/en/persons/jonathan-impett&quot;&gt;Jonathan Impett&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.socasites.qub.ac.uk/fschroeder/&quot;&gt;Franziska Schroeder&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://www.sussex.ac.uk/profiles/240005&quot;&gt;Sally Jane Norman&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://pavlosantoniadis.wordpress.com/about&quot;&gt;Pavlos Antoniadis&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://einartorfieinarsson.com&quot;&gt;Einar Torfi Einarsson&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.ryanrosssmith.com&quot;&gt;Ryan Ross Smith&lt;/a&gt;&lt;br /&gt;
+ Dominique Fober&lt;br /&gt;
+&lt;a href=&quot;http://thormagnusson.github.io&quot;&gt;Thor Magnusson&lt;/a&gt;&lt;br /&gt;
+
+&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2016 14:00:00 +0100</pubDate>
+        <link>http://www.sonicwriting.org/blog/newnotations</link>
+        <guid isPermaLink="true">http://www.sonicwriting.org/blog/newnotations</guid>
+        
+        
+      </item>
     
       <item>
         <title>Machine Creativity Roundtable at IASPM in Brighton</title>
         <description>&lt;p&gt;We present a roundtable on Machine Creativity as part of the &lt;u&gt;&lt;a href=&quot;http://www.iaspm.org.uk/conference2016&quot;&gt;IASPM conference&lt;/a&gt;&lt;/u&gt; co-organised by the &lt;u&gt;&lt;a href=&quot;http://www.sussex.ac.uk/music/&quot;&gt;Sussex Music Department&lt;/a&gt;&lt;/u&gt; and &lt;u&gt;&lt;a href=&quot;http://www.bimm.co.uk/brighton/&quot;&gt;BIMM&lt;/a&gt;&lt;/u&gt;. The idea is to set up a dialogue between researchers of machine creativity and popular music to further understanding between the respective fields. Members of the round table are:&lt;/p&gt;
 
 &lt;li&gt;&lt;b&gt;Elaine Chew&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/~eniale/&quot;&gt;http://www.eecs.qmul.ac.uk/~eniale/&lt;/a&gt;&lt;/u&gt;
-Using formal scientific methods, Chew’s research centers on the design of mathematical and computational tools to model, analyze, and visualize music structures. 
-
+Chew is a musician (pianist) and mathematician (operations researcher) who designs mathematical and computational tools to model, analyse, and visualise music structures: structures constructed in the process of listening, performing, composing, and improvising.
 &lt;li&gt;&lt;b&gt;Rebecca Fiebrink&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths&quot;&gt;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 Fiebrink is an expert in machine learning and has created systems using neural networks that can quickly learn gestural and compositional styles of performers and composers. 
 
 &lt;li&gt;&lt;b&gt;Andrew McPherson&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson&quot;&gt;http://www.eecs.qmul.ac.uk/people/view/20095/dr-andrew-mcpherson&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 How can computer algorithms add to and shape musical performance? Can instruments learn about the performers playing them? Can they contribute to the playing? Andrew will bring the NIME (New Instruments for Musical Expression) expertise to this round-table.
 
-&lt;li&gt;&lt;b&gt;Bob Sturm&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/people/view/21069/dr-bob-sturm&quot;&gt;http://www.eecs.qmul.ac.uk/people/view/21069/dr-bob-sturm&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;li&gt;&lt;b&gt;Bob Sturm&lt;/b&gt; - &lt;u&gt;&lt;a href=&quot;http://www.eecs.qmul.ac.uk/~sturm/&quot;&gt;http://www.eecs.qmul.ac.uk/~sturm/&lt;/a&gt;&lt;/u&gt;&lt;br /&gt;
 Sturm’s research seeks to interrogate the “creative” and/or “intelligent” machine. Though a machine may appear creative and/or intelligent, what has it &lt;i&gt;actually&lt;/i&gt; learned to do? How can it be changed to do what we want it to do? Sturm will discuss various approaches to answering these questions, and how such &quot;learned machines&quot; can provide useful assistance and inspiration to the human creator.
 
 

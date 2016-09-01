@@ -1,0 +1,52 @@
+---
+layout:     post
+title:      "New Notations Symposium @ IRCAM"
+date:       2016-09-01 13:00:00
+author:     "Thor Magnusson"
+header-img: "img/ircam.jpg"
+twitter: True
+comments: True
+---
+
+As part of the Sonic Writing research project, we are organising a symposium with <a href="http://www.ircam.fr">IRCAM</a>, Paris, on September 22nd, 2016. Further information on the symposium website: <a href="http://www.sonicwriting.org/ircam.html">New Notations Symposium</a>
+
+The focus is on new notational practices in the context of recent developments in new instruments and media and key topics will address different aspects of musical instrumentalities:
+
+<li>notation and tradition - how does a notational language evolve?
+<li>new instruments - how does the role of notation change with new technologies?
+<li>the symbol and the material - do new ergonomic and timbral affordances require new symbolism?
+<li>the evolving instrument - how do we compose for evolving technologies?
+<li>notation in screen-based and computational media - what are the qualities of dynamic scores?
+<li>graphic notation, live notation, animated notation - how does concept of "liveness" change?
+<li>education and learning - how do we learn new notations for new digital instruments?
+<li>audience understanding - how do we communicate what a notation system does?
+<li>how does a notation system evolve, and how do we understand that evolution?
+<li>what does a musical notation system mediate?
+<br><br>
+<p><center><img src="{{ site.baseurl }}/img/einar.png" alt="From Desiring Machines">
+<span class="caption text-muted">An extract of Einar Torfi Einarsson's work <i>Desiring Machines</i></span></center>
+
+The symposium blurb:<br>
+<cite>
+<p>The <a href="http://www.sonicwriting.org/ircam.html">New Notations Symposium</a> at IRCAM explores current notational practices in the writing for new instruments and media. The aim is to study the changes in notational strategies that are brought forward with new music technologies, where graphics, animation, and algorithmic techniques offer extended compositional possibilities. Musical notation and instruments evolve in parallel, and we find that in much contemporary work, the notation system becomes part of the instrument, or even an integral part of the musical piece itself. Processor-based media enable dynamic score systems that are applied to generate musical events in real-time or respond to instrumental performances in ways traditional media are not capable of.</p>
+
+<p>Furthermore, with the increased analytical power gained with machine listening technologies, we find that auxillary notations of timbre, gesture, and affect become important aspects of the "writing" of a musical work. Contemporary composers study this potential of new notation, and this symposium looks into the design of new instruments from ergonomic and timbral perspectives and studies how musical notation develops in concert with these changes.</p>
+
+<p>Symposium topics include musical notation for new instruments, secondary notation, graphic or algorithmic notation, live and animated notation, usability, sustainability and legacy, tradition, issues of learning, audience communication, and more. The symposium consists of presentations, performances, and discussions. It is an open event, as long as space is available. For people interested in participating in the symposium, please fill in the registration form below.</p>
+</cite>
+
+<p>Presenters at the symposium are:<br>
+
+<a href="http://ultranoise.es/blog/">Enrique Tomás</a><br>
+<a href="http://www.claudiamolitor.org">Claudia Molitor</a><br>
+<a href="http://frederic-bevilacqua.net">Frédéric Bevilacqua</a><br>
+<a href="http://www.uitti.org">Frances-Marie Uitti</a><br>
+<a href="http://www.orpheusinstituut.be/en/persons/jonathan-impett">Jonathan Impett</a><br>
+<a href="http://www.socasites.qub.ac.uk/fschroeder/">Franziska Schroeder</a> <br>
+<a href="http://www.sussex.ac.uk/profiles/240005">Sally Jane Norman</a><br>
+<a href="https://pavlosantoniadis.wordpress.com/about">Pavlos Antoniadis</a> <br>
+<a href="http://einartorfieinarsson.com">Einar Torfi Einarsson</a><br>
+<a href="http://www.ryanrosssmith.com">Ryan Ross Smith</a><br>
+ Dominique Fober<br>
+<a href="http://thormagnusson.github.io">Thor Magnusson</a><br>
+
