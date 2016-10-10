@@ -16,5 +16,5 @@ gems:
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
-paginate: 5
+paginate: 25
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
