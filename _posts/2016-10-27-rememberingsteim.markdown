@@ -31,6 +31,6 @@ A meaningful performance cannot exist without music of some interest and value. 
 
 A grounded NIME education will consider creativity at all levels of practice. How precisely to implement the above as an educational programme is a matter of institutional support, course goals, local research and musical cultures, and the personal style of the tutors. But this will be an education that stresses the role of context, community, and communication in musical practice. It will train approaches to invention and innovation. But just as in any musical education, what can’t be taught is the art of making good music - it can only form the conditions for that to happen.
 
-Finally, writing this blog post, I came across this old <a href="http://steim.org/wp/wp-content/uploads/2012/01/STIEM-wire.pdf">The Wire article on STEIM</a>. I thought it might interest some. I thank the wonderful people at STEIM for welcoming the Sonic Writing project for a residency at their wonderful institution.
+Finally, writing this blog post, I came across this old <a href="http://steim.org/wp/wp-content/uploads/2012/01/STIEM-wire.pdf">The Wire article on STEIM</a>. I thought it might interest some. I thank the wonderful people at STEIM for welcoming the Sonic Writing project for a residency at their great institution.
 
 
