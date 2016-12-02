@@ -41,3 +41,95 @@ The second day started with a discussion on the previous day. The notion that no
 After the discussion we had four workshops: <a href="http://www.animatednotation.com">animated notation</a> with Ryan Ross Smith; <a href="http://imtr.ircam.fr/imtr/CataRT">concatenative synthesis</a> with Diemo Schwarz; <a href="http://netem.org.uk">Netem</a> workshop with Alice Eldridge and Chris Kiefer; <a href="http://www.iannix.org/en/">IanniX</a> workshop by Thierry Coduys and Guillaume Jacquemin; and finally a workshop in <a href="http://cosima.ircam.fr">CoSiMa</a> with Norbert Schnell. The workshop leaders managed to brilliantly add meat onto the theoretical bones that we had been operating with in the previous sessions.  
 
 The videos were recorded and some of the performances. Many thanks to IRCAM for sharing them with us and to Éric de Gélis for the excellent editing. The videos can also be found on IRCAM's <a href="http://medias.ircam.fr/x22be39">video channel</a>.
+
+
+<hr>
+<h4><b>Thor Magnusson: Introduction to the Symposium</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/N0lskydfpy4" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Jonathan Impett: Notation as technology</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/OmYjkj650Kw" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Sally Jane Norman: New Notations and Embodied Experience</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/-pOJPBfOpNw" frameborder="0" allowfullscreen></iframe> 
+
+<hr>
+<h4><b>Enrique Tomás: Towards Non-linguistic Writing for Music: A Performative Approach</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/P2H9K8h1enQ" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Ryan Ross Smith: The Trappings of Choice: Mediating the Democratization of Participation through Control</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/QeBwSYbHcbQ" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Franziska Schroeder: The absence of notation - exploring a haptic aurality</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/OhECwrxeuew" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Frederic Bevilacqua: Perspective on notating and annotating expressive movements for interactive systems</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/AL8FhijtbHY" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Pavlos Antoniadis : Old notation, new interface: embodied navigation of complex piano notation with the GesTCom</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/IoImLFM0YnU" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Dominique Fober: How technology affects the music score</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/70A_aRpk-A0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Claudia Molitor: A visual moment</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/GCxMnlmv1-E" frameborder="0" allowfullscreen></iframe>
+            
+<hr>
+<h4><b>Einar Torfi Einarsson: Notation’s struggle to the surface (or, towards concrete notation)</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/QRK-mXjJWqg" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Frances-Marie Uitti: Signs and Symbols for a New Music</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/x2DhwAjKw4A" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Thor Magnusson: On Notating Algorithmic Machines</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/XCvcbi4XRsg" frameborder="0" allowfullscreen></iframe>
+            
+<hr>
+<h4><b>Thierry Coduys: Notating with IanniX - Score in space and time</b></h4>
+            
+<iframe width="750" height="456" src="https://www.youtube.com/embed/L5ar6Z0LNS8" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>PERFORMANCES</b></h4>
+
+
+<hr>
+
+<h4><b>Ryan Ross Smith: Study no. 56</b></h4>
+            
+<iframe width="750" height="456" src="https://www.youtube.com/embed/shBaVhpIpJM" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Sally Jane Norman: Object of Notation</b></h4>
+            
+<iframe width="750" height="456" src="https://www.youtube.com/embed/mj6z094rj-Y" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+<h4><b>Pedro Rebelo: Cipher Series</b></h4>
+
+<iframe width="750" height="456" src="https://www.youtube.com/embed/b8MSEsMKqbk" frameborder="0" allowfullscreen></iframe>
+
