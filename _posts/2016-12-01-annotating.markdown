@@ -131,5 +131,4 @@ The presentations and some of the performances were recorded on video. Many than
 <hr>
 <h4><b>Pedro Rebelo: Cipher Series</b></h4>
 
-<iframe width="750" height="456" src="https://www.youtube.com/embed/b8MSEsMKqbk" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="750" height="456" src="https://www.youtube.com/embed/RAtq6P_-izQ" frameborder="0" allowfullscreen></iframe>
