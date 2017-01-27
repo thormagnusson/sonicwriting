@@ -11,7 +11,7 @@ github_username:  thormagnusson
 facebook_username:  thorlmagnusson
 gems:
   - jekyll-feed
-
+  - jekyll-paginate
 # Build settings
 markdown: kramdown
 highlighter: rouge

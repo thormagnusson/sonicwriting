@@ -3,11 +3,65 @@
   <channel>
     <title>Sonic Writing</title>
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
-    <link>http://www.sonicwriting.org/</link>
-    <atom:link href="http://www.sonicwriting.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 07 Dec 2016 11:06:54 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Dec 2016 11:06:54 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 27 Jan 2017 14:23:22 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Jan 2017 14:23:22 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Special Issue: Live Coding</title>
+        <description>&lt;p&gt;The third issue of the twentieth volume of the &lt;a href=&quot;http://www.tandfonline.com/toc/rpdm20/12/2?nav=tocList&quot;&gt;International Journal of Performance Art and Digital Media&lt;/a&gt; was about live coding. Kate Sicchio and I edited this issue, and after a process that took about a year and a half, from early stages of planning to publication, the issue is out. We are very happy with the result: a publication of a cutting-edge technology of music writing by some fantastic authors, including Emma Cocker, Sally Jane Norman, Tim Sayer, Karen Burland and Alex McLean, Hester Reeve, Hannah Elizabeth Allan, Sam Aaron, Andrew R. Brown, Mauro Herrera et al., Chris Kiefer, Charlie Roberts, IOhannes m. zmölnig, with book reviews on Andy Clark’s &lt;i&gt;Surfin Uncertainty&lt;/i&gt; by Jelle Bruineberg and Tom Froese, and the edited volume &lt;i&gt;Digital Movement&lt;/i&gt; by Sarah Whatley.&lt;/p&gt;
+
+&lt;p&gt;Kate and I would like to thank Dr Dave Collins for the great collaboration on this special issue - which was actually his last as the editor for the journal. We also congratulate Dr Maria Chatzichristodoulou on her new role as the editor in chief. IJPADM is an excellent platform to think about new technologies in the performing arts. The current call is on “Bodily Extensions and Performance (Avatars, Prosthesis, Cyborgs, Posthumans)” and can be found &lt;a href=&quot;http://explore.tandfonline.com/pages/cfp/rpdm-special-issue-call-for-papers&quot;&gt;here&lt;/a&gt;. (the extended deadline is January 31st).&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/chriskiefer.jpg&quot; alt=&quot;Chris Kiefer&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Sussex colleague, Chris Kiefer, live coding. Chris has an article in the journal issue.&lt;/span&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;This is our editorial:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Writing with shaky hands&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;I am no doubt not the only one who writes in order to have no face. Do not ask who I am and do not ask me to remain the same: leave it to our bureaucrats and our police to see that our papers are in order. At least spare us their morality when we write.&lt;/cite&gt; (Foucault, 1972)&lt;/p&gt;
+
+&lt;p&gt;In his introduction to the &lt;i&gt;Archaeology of Knowledge&lt;/i&gt;, Foucault objects to be defined as a writer of a solid identity in order to be able to move, change, and explore the unknown – labyrinths and underground passages – admitting that such writing is at times done with a ‘shaky hand’. This journal issue explores live coding, a performance practice that operates in a similar spirit of writing as an adventure and exploration, of deliberately rejecting definitions, of being heterogeneous in nature, and continually challenging its self-understanding through the practice of writing and rewriting – of defining and redefining – as a public performance.&lt;/p&gt;
+
+&lt;p&gt;Although live coding attempts to escape definition, there are denoting statements that have traditionally described its activities, such as: writing software in real-time; changing a programme whilst it’s running; projecting the screen for the audience to participate in; writing as an improvisatory practice; composing live using textual notation; changing rules whilst following them; conversing with the computer in its own native language; thinking in public; creating and using bespoke systems tailored for on-the-fly performance.&lt;/p&gt;
+
+&lt;p&gt;Live coding is an improvisatory performance method that has been applied in the diverse art forms, but historically it has been very prominent in music, perhaps due to the importance of the musical score, computer music, and the technological foundations of musical practice in general (as demonstrated by the history of musical instruments). Live coding can be used as a compositional technique in the studio without an audience, but in this issue we focus on live coding as a performance method where code is typically projected on the wall for the audience to engage with – observing the thought process and the composition as it happens, as well as partaking in interpretation (understanding how sounds, visuals, or movements derive from the notation).&lt;/p&gt;
+
+&lt;p&gt;Live coders programme, they write in public (Greek: &lt;i&gt;pro-graphein&lt;/i&gt;) – but they also &lt;i&gt;pre-gramme&lt;/i&gt;, that is, their algorithmic writing is conditioned by a system that has already been designed with careful considerations of expressivity, constraints, interface, and other concerns of human-machine interaction and performer-audience communication. Most live coders adopt or develop a system best matched to the ways they wish to communicate the writing of their work – manifest as music, visuals, or other art forms. It is a writing of a writing that will happen at a later stage, on a different stage! The initial multimodal system thus offers creative solutions to the specific problematics of the stage, the real-time actuality of the performance, and the openness of improvisatory practices. Whilst the live coding system is pregrammed, the subsequent performance act of programming processes digital media as fluid entities whose functionalities are subject to development and change.&lt;/p&gt;
+
+&lt;p&gt;The aim of this live coding special issue for the &lt;i&gt;International Journal of Performance Arts and Digital Media&lt;/i&gt; is to present live coding in its broader historical and aesthetic context; the issue offers a set of theoretical papers supplemented with focussed artistic statements exemplifying diverse live coding practices. Emma Cocker’s article &lt;i&gt;Performing Thinking in Action: The Meletē of Live Coding&lt;/i&gt; applies the Greek term &lt;i&gt;meletē&lt;/i&gt; to describe live coding as a meditative thought experiment; one that is publicly shared, a form of ‘thinking-in-action’. Live coding is here framed as a site for experimentation and negotiation between the spontaneous and the planned, the human and the machine. In &lt;i&gt;Setting Live Coding Performance in Wider Historical Contexts&lt;/i&gt;, Sally Jane Norman traces live coding practices of projecting liveness and poetic modelling back to historical examples involving the Sun King, Louis XIV, amongst others. A key theme in the article explores how live events are crafted as uniquely artistic material, overriding habitual frames of reference. This is a theme picked up by Tim Sayer, whose article &lt;i&gt;Cognitive Load and Live Coding: A Comparison with Improvisation using Traditional Instruments&lt;/i&gt;, explores the cognitive mechanisms applied in improvisation, specifically comparing the improvisational practices of live coding to those of instrumental music.&lt;/p&gt;
+
+&lt;p&gt;Several articles address audience perception in live coding, defining it as a practice where most commonly artists choose to ‘show their screens’. In &lt;i&gt;Understanding Live Coding Events&lt;/i&gt;, Burland and McLean provide a study that aims to ‘explore the motivations, experiences, and responses of live coding audiences and to examine their perceptions of the role and impact of the projected source code during live coding events’. This is an area that has not been investigated previously in any depth within the live coding literature, but live coders’ gesture of projecting code sets up a relationship between performer and audience that is rather unique in the performing arts.&lt;/p&gt;
+
+&lt;p&gt;The connections of live coding with live art are also found within this special issue, with Hester Reeve reflecting on her work collaborating with live coders, and placing it into philosophical discourse. Reeve’s &lt;i&gt;Live Code, Live Art and the BwO Dissection&lt;/i&gt; draws out similarities in the practices of live coding and the practices of live art, and in &lt;i&gt;(en)Coding Performance: From Analogue to Digital&lt;/i&gt;, Hannah Allan looks to Fluxus performance work in order to find text-based pieces which echo work found in the live coding community.&lt;/p&gt;
+
+&lt;p&gt;In conceiving this issue, we decided to call for artist statements in order to establish a more concrete grounding to some of the philosophical arguments presented in the longer articles. These statements focus on issues arising directly from performance, including designing performance systems, playful interpretations of code, and pedagogical implications. The creation of a live coding environment that serves equally for virtuoso performance and as an educational tool is the subject of Sam Aaron’s article. In &lt;i&gt;Sonic Pi – Performance in Education, Technology and Art&lt;/i&gt;, Aaron discusses the development of Sonic Pi and argues that teaching is by nature a performance – any good educational tool should reflect that fact. Andrew Brown’s artist statement, &lt;i&gt;Performing with the Other: The Relationship of Musician and Machine in Live Coding&lt;/i&gt;, delves deeper into the performer-machine relationship with a phenomenological discussion of his own performance works. For Brown, the live coding system is not a mere instrument, but the live coder’s other – an entity that can respond to the live coder and exert its own character during performance.&lt;/p&gt;
+
+&lt;p&gt;Other artist statements explore audience engagement through a variety of live coding practices. The Mexican live coding community’s contribution to this issue is a report authored by Mauro Herrera Machuca, Jaime Alonso Lobato Cardoso, José Alberto Torres Cerro and Fernando Javier Lomelí Bravo, reflecting on their performance system that merges natural language and code. For Herrera et al. have created framework that explores the understanding of code as literary commands aimed at audiences who may not have a computer programming background. Chris Kiefer discusses his web-based experiment &lt;i&gt;ApProgXimate Audio&lt;/i&gt; as a way to invite participants to live coding practices through a system that applies simple commands to explore complex sound synthesis. Kiefer wants his work to be accessible to lay audience and novice live coders and he therefore applies the Web Audio API, an audio synthesis framework that runs in most modern browsers. Charlie Roberts’s &lt;i&gt;Gibber&lt;/i&gt; system is also written in the Web Audio API, and it enables live updating of code, where the text can respond to sound through the events it defines as notation. Roberts also discusses public engagement through the use of visual elements to reinforce audience attention throughout performances. Finally, IOhannes m zmölnig critically explores the issue of how text is understood by the audience on screen, discussing his multi-layered representation of code, simultaneously hiding and revealing, thus lending itself to multiple readings by audience members.&lt;/p&gt;
+
+&lt;p&gt;In reflecting on the articles of this live coding special issue of IJPADM, the culture of live coding emerges as one that is not overly concerned with the act of programming itself, but rather with the techno-social aspects of its performative systems, representations of composition, rule-based improvisation, and performance activity. These critical discussions are not on technology per se, but rather on how audiences, artists and learners read, engage, and create with code that is developing in real-time, on the fly, or live.&lt;/p&gt;
+
+&lt;p&gt;Live coding is maturing as an artistic performance method. This history has been documented from its beginnings as a focussed practice in the early 2000s (see Collins et al. 2003), to Magnusson’s (2014) discussion of products, practices, experiments, and performances drawing on 10 years of hindsight. The latter article speculates on live coding as a method that will become increasingly ubiquitous in diverse art forms, to the degree that we may not need the term live coding in the future. As this special issue demonstrates, the activities currently denoted as live coding are methods that can be seen to have historical precedents in the arts, but they also relate to problems studied in computer science, often under the term live programming (Tanimoto 2013). Presenting live coding in these broad terms, relating it to past practices and related research fields, makes it increasingly hard to incisively define. It appears that the popularity of live coding can be explained by its appeal to people growing up with interactive media who reject being subjectified as passive consumers of technology. Live coding represents a mindset of sorts that conceives of technology as fluid phenomena, offering an openness to change and exploration, such as live redesign of instruments, live rewriting of scores, or indeed of writing with ‘shaky hands’ in order to have no face.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;References&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Collins, Nick, Alex McLean, Julian Rohrhuber, and Adrian Ward. 2003. “Live Coding in Laptop Performance.” Organised Sound 8 (3): 321–330.&lt;/p&gt;
+
+&lt;p&gt;Foucault, Michel. 1972. The Archaeology of Knowledge and the Discourse of Language. New York: Pantheon Books, 17&lt;/p&gt;
+
+&lt;p&gt;Magnusson, Thor. 2014. “Herding Cats: Observing Live Coding in the Wild.” Computer Music Journal 38 (1): 8–16.&lt;/p&gt;
+
+&lt;p&gt;Tanimoto, Steve. 2013. “A Perspective on the Evolution of Live Programming.” LIVE 2013 symposium proceedings, ICSE conference, San Francisco.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jan 2017 13:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/livecoding</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/livecoding</guid>
+        
+        
+      </item>
     
       <item>
         <title>Annotating New Notations at Ircam</title>
@@ -28,7 +82,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;/img/ryan.jpg&quot; alt=&quot;Ryan Ross Smith&quot; /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;An extract from Ryan Ross Smith&#39;s animated notation&lt;/span&gt;&lt;/center&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;An extract from Ryan Ross Smith's animated notation&lt;/span&gt;&lt;/center&gt;
 
 &lt;p&gt;The symposium ran over two days. We started the first day with thirteen short presentations by key practitioners in the field. The aim was to establish a context for further discussions in the afternoon and during workshops the following day. Jonathan Impett’s talk on “Notation as technology”, was a brilliant introduction to the symposium, framing notation as a technology in evolution, discussing hegemonic notation and how notation is becoming porous with other technologies. Sally Jane Norman’s talk “New Notations and Embodied Experience”, raised issues of how we notate human gestures, tracing technologies of recording and the notation of human action. She brought up the importance of being able to read machine readings of human gestures, a question of interfacing and representation. Enrique Tomás’ “Towards Non-linguistic Writing for Music: A Performative Approach” stated that we have become prisoners of representation and that we should “activate the body first, and let the mind observe the result”, pointing to performative materialities in his work on tangible scores. Ryan Ross Smith’s talk “The Trappings of Choice: Mediating the Democratization of Participation through Control” presented a history of animated notation, culminating in his own excellent work in that area. Franziska Schroeder’s talk “The absence of notation - exploring a haptic aurality” explored the relationship between notation and improvisation, and how non-notated musical practice can establish stronger bonds between the musicians on stage. Frédéric Bevilacqua’s “Questions on notations for interactive systems” presentation demonstrated his work on modular music objects that are notational in their nature: they prescribe actions via their affordances.&lt;/p&gt;
 
@@ -152,8 +206,8 @@
 &lt;iframe width=&quot;750&quot; height=&quot;456&quot; src=&quot;https://www.youtube.com/embed/RAtq6P_-izQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 01 Dec 2016 15:30:00 +0000</pubDate>
-        <link>http://www.sonicwriting.org/blog/annotating</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/annotating</guid>
+        <link>http://localhost:4000/blog/annotating</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/annotating</guid>
         
         
       </item>
@@ -203,10 +257,12 @@
 
 &lt;p&gt;The symposium ended in the &lt;a href=&quot;http://algomech.com/2016/#event12&quot;&gt;Millenium Gallery&lt;/a&gt; with a &lt;a href=&quot;http://www.birdandbee.co.uk/harmony/&quot;&gt;harmonograph installation&lt;/a&gt; by Ryan Patrick Morley, and performances by Tom Mudd on one button, Tim Shaw and John Bowers with modular hauntology, Joana Chicau with machinic choreography, Simon Blackmore clapping a sinewave, and Ryan Kirkbride live coding his FoxDot system. Or did it end there? Perhaps it ended in the Rutland Arms pub, or in &lt;a href=&quot;http://access-space.org&quot;&gt;Access Space&lt;/a&gt;, with smoke machines and pop-up sound systems.&lt;/p&gt;
 
+&lt;p&gt;Video recordings of the day can be found on the &lt;a href=&quot;https://www.youtube.com/playlist?list=PL7zKSsiv2z-PM8MY0wvx14w1x-I5OMF_U&quot;&gt;YouTube Channel&lt;/a&gt;.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 15 Nov 2016 13:30:00 +0000</pubDate>
-        <link>http://www.sonicwriting.org/blog/algomech</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/algomech</guid>
+        <link>http://localhost:4000/blog/algomech</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/algomech</guid>
         
         
       </item>
@@ -240,8 +296,8 @@
 
 </description>
         <pubDate>Thu, 27 Oct 2016 12:30:00 +0100</pubDate>
-        <link>http://www.sonicwriting.org/blog/rememberingsteim</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/rememberingsteim</guid>
+        <link>http://localhost:4000/blog/rememberingsteim</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/rememberingsteim</guid>
         
         
       </item>
@@ -272,8 +328,8 @@
 &lt;p&gt;The above is my quick attempt to document some of the thoughts emerging with me during this year’s ICLI conference, but there is also &lt;b&gt;proper&lt;/b&gt; documentation: the recently published &lt;a href=&quot;http://www.liveinterfaces.org/#proceedings&quot;&gt;ICLI 2016 proceedings&lt;/a&gt; contain information and the submitted pieces for the paper sessions, keynotes, doctoral colloquium, installations, workshops and performances. The proceedings have been published with &lt;a href=&quot;http://reframe.sussex.ac.uk/reframebooks/archive2016/live-interfaces/&quot;&gt;REFRAME Books&lt;/a&gt;. The conference was also documented on video, and most of the sessions can be found on the &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZYaObEdMoIynz3d18nIinob2G_pL9iXZ&quot;&gt;Emute Lab’s YouTube channel&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Oct 2016 12:35:00 +0100</pubDate>
-        <link>http://www.sonicwriting.org/blog/documentingICLI</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/documentingICLI</guid>
+        <link>http://localhost:4000/blog/documentingICLI</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/documentingICLI</guid>
         
         
       </item>
@@ -296,7 +352,7 @@
 &lt;li&gt;what does a musical notation system mediate?
 &lt;br /&gt;&lt;br /&gt;
 &lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/einar.png&quot; alt=&quot;From Desiring Machines&quot; /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;An extract of Einar Torfi Einarsson&#39;s work &lt;i&gt;Desiring Machines&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;An extract of Einar Torfi Einarsson's work &lt;i&gt;Desiring Machines&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
 
 The symposium blurb:&lt;br /&gt;
 &lt;cite&gt;
@@ -325,8 +381,8 @@ The symposium blurb:&lt;br /&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
 </description>
         <pubDate>Thu, 01 Sep 2016 14:00:00 +0100</pubDate>
-        <link>http://www.sonicwriting.org/blog/newnotations</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/newnotations</guid>
+        <link>http://localhost:4000/blog/newnotations</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/newnotations</guid>
         
         
       </item>
@@ -368,18 +424,18 @@ Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intel
 &lt;li&gt; Does machine creativity belong equally in performance and in composition/studio work?
 &lt;li&gt; What is creativity? How does this concept operate in your field of research?
 &lt;li&gt; Under which conditions can we declare a machine to be creative?
-&lt;li&gt; What can a machine do that humans can&#39;t?
+&lt;li&gt; What can a machine do that humans can't?
 &lt;li&gt; Is there a difference in how computational algorithms would engage with established genres vs. experimental music?
 &lt;li&gt; Wherein lies the art of music making? Will it perhaps always escape the machine?
 
 &lt;p&gt;Our session will be at &lt;b&gt;1pm, on Saturday 10th of September&lt;/b&gt;. See full programme &lt;u&gt;&lt;a href=&quot;http://www.iaspm.org.uk/iaspm/wp-content/uploads/2016/04/IASPM_Brighton_Schedule.pdf&quot;&gt;here&lt;/a&gt;&lt;/u&gt;.&lt;/p&gt;
 
-&lt;p&gt;The header image of this post is Al-Jazari&#39;s Diagram of a hydropowered perpetual flute from &lt;i&gt;The Book of Knowledge of Ingenious Mechanical Devices&lt;/i&gt; from 1206. From &lt;a href=&quot;https://commons.wikimedia.org/wiki/File%3AAl-jazari_water_device.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The header image of this post is Al-Jazari's Diagram of a hydropowered perpetual flute from &lt;i&gt;The Book of Knowledge of Ingenious Mechanical Devices&lt;/i&gt; from 1206. From &lt;a href=&quot;https://commons.wikimedia.org/wiki/File%3AAl-jazari_water_device.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 14:00:00 +0100</pubDate>
-        <link>http://www.sonicwriting.org/blog/machinecreativity</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/machinecreativity</guid>
+        <link>http://localhost:4000/blog/machinecreativity</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/machinecreativity</guid>
         
         
       </item>
@@ -388,27 +444,27 @@ Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intel
         <title>Musical Organics: A Symposium on Instrument Design</title>
         <description>&lt;p&gt;On May 5th, a group of people will meet at STEIM in Amsterdam at a symposium called &lt;a href=&quot;http://www.sonicwriting.org/steim.html&quot;&gt;Musical Organics&lt;/a&gt;. The aim with the symposium is to question what instrument design means in the current age of new materials and media. Through a genealogical enquiry we hope to outline traces of design patterns that extend through histories of musical cultures, and observe how these are translated or transduced by the migration into the seemingly infinite space offered by digital media. The symposium features presentations by a violin luthier, an artist instrument maker, engineers, designers, live coders, composers, and performers. Common to all these people is an interdisciplinary approach that crosses professional boundaries, through a practice that reaches beyond the granularity of our current language. The new materialities require new languages.
 
-&lt;p&gt;Traditional organology (the science of musical instruments) is a study of the history and classification of musical instruments. Diverse classification schemes have been proposed, extending back to the ancient Greeks, who proposed a three-fold system of wind, string and percussion instruments. These organologies are hierarchical, with diverse levels, classes and branches. Some of these systems are incredibly nuanced, for example Montagu and Burton&#39;s scheme that has the following tree structure: kingdom (all noise makers), sub-kingdom (airophones, chordophones, membranophones, and idiophones), super-phylum (e.g., struck idiophones), phylum, class, order, sub-order, family, sub-family, genus, species, sub-species, and variety. There is a clear inheritance here to the classificatory metaphysics presented in Aristotle&#39;s &lt;i&gt;categories&lt;/i&gt;, which later became represented by classical tree structure hierarchies, known in medieval times as &lt;i&gt;Arbor Porphyriana&lt;/i&gt; (or the Tree of Porphyry).
+&lt;p&gt;Traditional organology (the science of musical instruments) is a study of the history and classification of musical instruments. Diverse classification schemes have been proposed, extending back to the ancient Greeks, who proposed a three-fold system of wind, string and percussion instruments. These organologies are hierarchical, with diverse levels, classes and branches. Some of these systems are incredibly nuanced, for example Montagu and Burton's scheme that has the following tree structure: kingdom (all noise makers), sub-kingdom (airophones, chordophones, membranophones, and idiophones), super-phylum (e.g., struck idiophones), phylum, class, order, sub-order, family, sub-family, genus, species, sub-species, and variety. There is a clear inheritance here to the classificatory metaphysics presented in Aristotle's &lt;i&gt;Categories&lt;/i&gt;, which later became represented by classical tree structure hierarchies, known in medieval times as &lt;i&gt;Arbor Porphyriana&lt;/i&gt; (or the Tree of Porphyry).
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/arbor.jpg&quot; alt=&quot;The Tree of Porphyry&quot; /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;The classificatory philosophical tree of &lt;a href=&quot;https://commons.wikimedia.org/wiki/File%3AArborLulle.jpg&quot;&gt;Lully&lt;/a&gt;, based on Porphyry&#39;s &lt;i&gt;Isagoge&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;The classificatory philosophical tree of &lt;a href=&quot;https://commons.wikimedia.org/wiki/File%3AArborLulle.jpg&quot;&gt;Lully&lt;/a&gt;, based on Porphyry's &lt;i&gt;Isagoge&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
 
-&lt;p&gt;The most common and well known organology is the system proposed by Sachs and Hornbostel in 1914. This system expands the early Greek one, and defines &lt;i&gt;idiophones&lt;/i&gt;, &lt;i&gt;membranophones&lt;/i&gt;, &lt;i&gt;chordophones&lt;/i&gt;, and &lt;i&gt;aerophones&lt;/i&gt;. This organology allows for a clear typological tracing down to the unique features of the individual instrument, where, for example, the numerical denominator of 111.242.222 would refer to sets of hanging bells with internal strikers (1 = idiophone; 11 = struck idiophone; 111 = idiophones struck directly; 111.2 = percussion idiophones; 111.24 = percussion vessels; 111.242 = bells; 111.242.2 = sets of bells; 111.242.22 = sets of suspended bells; 111.242.222 = sets of clapper bells). This classification system, with such a nuanced cataloguing of instruments, is clearly useful for museums, historians, anthropologists, and some musicologists (I say &#39;some&#39;, as there has arguably been a gap between Western organology and musicology, a symptom of the rift we find in philosophy between &lt;i&gt;episteme&lt;/i&gt; and &lt;i&gt;techne&lt;/i&gt;, as introduced by Plato). 
+&lt;p&gt;The most common and well known organology is the system proposed by Sachs and Hornbostel in 1914. This system expands the early Greek one, and defines &lt;i&gt;idiophones&lt;/i&gt;, &lt;i&gt;membranophones&lt;/i&gt;, &lt;i&gt;chordophones&lt;/i&gt;, and &lt;i&gt;aerophones&lt;/i&gt;. This organology allows for a clear typological tracing down to the unique features of the individual instrument, where, for example, the numerical denominator of 111.242.222 would refer to sets of hanging bells with internal strikers (1 = idiophone; 11 = struck idiophone; 111 = idiophones struck directly; 111.2 = percussion idiophones; 111.24 = percussion vessels; 111.242 = bells; 111.242.2 = sets of bells; 111.242.22 = sets of suspended bells; 111.242.222 = sets of clapper bells). This classification system, with such a nuanced cataloguing of instruments, is clearly useful for museums, historians, anthropologists, and some musicologists (I say 'some', as there has arguably been a gap between Western organology and musicology, a symptom of the rift we find in philosophy between &lt;i&gt;episteme&lt;/i&gt; and &lt;i&gt;techne&lt;/i&gt;, as introduced by Plato). 
 
-&lt;p&gt;&lt;img src=&quot;/img/kirscher.jpg&quot; alt=&quot;Kirscher&#39;s Aeolian Harp&quot; /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Kirscher&#39;s &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008349_Akustik_%5E_Schall_%5E_Harfe_%5E_Aeolsharfe_%5E_Windharfe_%5E_Musikinstrument_%5E_Saiteninst.jpg&quot;&gt;Aeolian Harp&lt;/a&gt; from 1684 is an example of an instrument that breaks traditional organologies, as acknowledged by Sachs and Hornbostel in the introduction to their original work&lt;/span&gt;
+&lt;p&gt;&lt;img src=&quot;/img/kirscher.jpg&quot; alt=&quot;Kirscher's Aeolian Harp&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;Kirscher's &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0008349_Akustik_%5E_Schall_%5E_Harfe_%5E_Aeolsharfe_%5E_Windharfe_%5E_Musikinstrument_%5E_Saiteninst.jpg&quot;&gt;Aeolian Harp&lt;/a&gt; from 1684 is an example of an instrument that breaks traditional organologies, as acknowledged by Sachs and Hornbostel in the introduction to their original work&lt;/span&gt;
 
 &lt;p&gt;In 1940, Sachs added the fifth category to the scheme, the &lt;i&gt;electrophone&lt;/i&gt;. This was in turn divided into three sub-categories: electric-action, electro-mechanical, and radioelectric. Other organologists have continued applying the electrophone category and developing it. But here is the problem: with digital media, we get a material substance of such a plastic and dynamic nature - due to the computer being a meta-machine - that the concept of electrophone is clearly becoming inadequate. The introduction of a category like &lt;i&gt;digitophone&lt;/i&gt; or &lt;i&gt;digiphone&lt;/i&gt; would not solve many problems. The fact is that digital musical systems, as implemented in software for computers, integrated in hardware, or in the form of mobile apps, are so open and diverse, deriving their design patterns from an extremely heterogeneous sources of musical technics, that fitting them into genealogical trees of tradititional organologies is an unworkable task. This impossibility is amplified further by the fact that the digiphones (if we are to temporarily entertain that organological category) equally originate from the worlds of digital design, human-computer interaction, and computer games. Such an organology would therefore have to be a project of interdisciplinary and intermedia nature.
 
-&lt;p&gt;For this reason, and instead of improved organologies, we organise a symposium on musical organics: an attempt at exploring and framing the ecosystems of musical technics as a reticulated web - one that hybridises older organologies, continually borrowing, referencing, appropriating, and representing the techniques incorporated in human movement. This would be a heterarchical organology - a contradiction in terms - and thus the symposium name of &lt;i&gt;Musical Organics&lt;/i&gt;, referencing soil, plants, flowers, or perhaps the ultra-famous &lt;a href=&quot;https://www.youtube.com/watch?v=gnteiRO-XfU&quot;&gt;rhizome&lt;/a&gt;. This move mirrors Umberto Eco&#39;s criticism of the dictionary in favour of the more organisationally flexible scheme of the encyclopedia.
+&lt;p&gt;For this reason, and instead of improved organologies, we organise a symposium on musical organics: an attempt at exploring and framing the ecosystems of musical technics as a reticulated web - one that hybridises older organologies, continually borrowing, referencing, appropriating, and representing the techniques incorporated in human movement. This would be a heterarchical organology - a contradiction in terms - and thus the symposium name of &lt;i&gt;Musical Organics&lt;/i&gt;, referencing soil, plants, flowers, or perhaps the ultra-famous &lt;a href=&quot;https://www.youtube.com/watch?v=gnteiRO-XfU&quot;&gt;rhizome&lt;/a&gt;. This move mirrors Umberto Eco's criticism of the dictionary in favour of the more organisationally flexible scheme of the encyclopedia.
 
 
 
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Apr 2016 14:00:00 +0100</pubDate>
-        <link>http://www.sonicwriting.org/blog/musicalorganics</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/musicalorganics</guid>
+        <link>http://localhost:4000/blog/musicalorganics</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/musicalorganics</guid>
         
         
       </item>
@@ -432,7 +488,7 @@ Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intel
 
 &lt;p&gt;In any case, it is evident that musical performance, written notated music, the design of new instruments, generative music, music for the moving image, live coding, sound installations, or sound design and music for computer games are greatly under-represented. Not to mention musicological approaches. This is an education that focuses on a specific set of equipment, where the producer is a consumer of technologies that are beyond the user to adopt or change (unlike what we saw in the studio activities of George Martin or Lee Scratch Perry). Indeed, the Ofqual documents suggest that the curriculum is designed for a 20th century music industry that has now been superseded with a much more diverse, energetic, and interdisciplinary field. 
 
-&lt;p&gt;Needless to say that all the work we do in higher education aiming to correct the gender imbalance in music technology degrees is not helped by this type of language. My experience is that a holistic language that includes references to creativity, performance, art, audience, culture, collaboration, and communication will attract a much wider demography than a language centred on equipment and scientific terminology. (An excellent study on diversity in music technology is Georgina Born and Kyle Devine&#39;s article &quot;Music Technology, Gender, and Class: Digitization, Educational and Social Change in Britain&quot; in the &lt;i&gt;20th Century Music&lt;/i&gt; Journal).
+&lt;p&gt;Needless to say that all the work we do in higher education aiming to correct the gender imbalance in music technology degrees is not helped by this type of language. My experience is that a holistic language that includes references to creativity, performance, art, audience, culture, collaboration, and communication will attract a much wider demography than a language centred on equipment and scientific terminology. (An excellent study on diversity in music technology is Georgina Born and Kyle Devine's article &quot;Music Technology, Gender, and Class: Digitization, Educational and Social Change in Britain&quot; in the &lt;i&gt;20th Century Music&lt;/i&gt; Journal).
 
 &lt;p&gt;&lt;img src=&quot;/img/mixer.jpg&quot; alt=&quot;a mixer&quot; /&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;A familiar &quot;music technology&quot; iconography.&lt;/span&gt;
@@ -443,13 +499,13 @@ Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intel
 
 &lt;p&gt;To do music technology thus involves studying the environment in which new music is produced, critically reflecting upon how musical practices are determined by the tools at hand, which, in turn, are also conditioned by what we do with them. But more importantly, it means to perform, improvise, collaborate and redefine equipment for new contexts and explore their musical limits. The history of the saxophone is a good example of how undefined a musical instrument can be at first, slowly gaining a function amongst different musical cultures such as military bands and jazz. In this context it is interesting to behold Attali’s statement that in &lt;i&gt;“music, the instrument often predates the expression it authorizes, which explains why a new invention has the nature of noise; a ‘realized theory’ (Lyotard), it contributes, through the possibilities it offers, to the birth of a new music, a renewed syntax.”&lt;/i&gt; 
 
-&lt;p&gt;A critical questioning of music technology implies the study of how our music technologies are conditioned by the complex interrelationship of aesthetics, science, culture, and equipment. We should embrace the fact that music techno-logy is the knowledge of the craft of music, and that craft has traditionally, for at least 40 millennia, been about performing music, about people gathering together to play, share, contribute, live the moment, and enjoy the unexpected. The design and use of a bone flute, a lute, a musical score, or a digital audio workstation are all good examples of music technology. Entering the 21st century, we bring all that baggage with us, but let&#39;s unpack it in the context of new musical practices - of new musical technologies.
+&lt;p&gt;A critical questioning of music technology implies the study of how our music technologies are conditioned by the complex interrelationship of aesthetics, science, culture, and equipment. We should embrace the fact that music techno-logy is the knowledge of the craft of music, and that craft has traditionally, for at least 40 millennia, been about performing music, about people gathering together to play, share, contribute, live the moment, and enjoy the unexpected. The design and use of a bone flute, a lute, a musical score, or a digital audio workstation are all good examples of music technology. Entering the 21st century, we bring all that baggage with us, but let's unpack it in the context of new musical practices - of new musical technologies.
 
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Mar 2016 15:00:00 +0000</pubDate>
-        <link>http://www.sonicwriting.org/blog/musictechnology</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/musictechnology</guid>
+        <link>http://localhost:4000/blog/musictechnology</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/musictechnology</guid>
         
         
       </item>
@@ -474,27 +530,8 @@ Thor Magnusson is a musician with a PhD in Computer Science and Artificial Intel
 &lt;p&gt;The deadline for submissions has been extended to February 21st, so please consider submitting a performance proposal, a paper, a workshop, an installation or participate in the doctoral colloquium. &lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Feb 2016 15:00:00 +0000</pubDate>
-        <link>http://www.sonicwriting.org/blog/icli</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/icli</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hello World: Launching the Sonic Writing Project</title>
-        <description>&lt;p&gt;This website will document research activities relating to a two-year &lt;a href=&quot;http://www.ahrc.ac.uk&quot;&gt;AHRC&lt;/a&gt; funded fellowship starting on February 1st, 2016. The Sonic Writing research project aims to investigate the complex relationship between musical instrument design, musical notation, and phonography, in order to get a better understanding of how digital media transform these established musical practices. The transduction process that takes place when digital media become the prevalent platform for musical production, dissemination, and consumption is exciting, yet deeply problematic, as with the abundance of new techniques and social connectivity brought by the digital media, we also leave behind knowledge and practices that are not translated into the digital. Entailed in the digital is an abstraction and representation of reality, a process that is bound to exclude features, add new ones, and marginalise others. The question of how musical traditions can be preserved in digital media is a real and pressing one.&lt;/p&gt;
-
-&lt;p&gt;The primary output of the project is a book, &lt;i&gt;Sonic Writing: Technologies of Musical Expression Notation and Encoding&lt;/i&gt;, which will be published by Bloomsbury&#39;s &lt;a href=&quot;http://www.bloomsbury.com/uk/academic/academic-subjects/music-and-sound-studies/&quot;&gt;Music &amp;amp; Sound Studies&lt;/a&gt; series. The research is conducted with five project partners: &lt;a href=&quot;http://www.ircam.fr&quot;&gt;IRCAM&lt;/a&gt; in Paris, &lt;a href=&quot;http://steim.org&quot;&gt;STEIM&lt;/a&gt; in Amsterdam, &lt;a href=&quot;http://cnmat.berkeley.edu&quot;&gt;CNMAT&lt;/a&gt; in Berkeley, &lt;a href=&quot;http://music.columbia.edu/cmc/&quot;&gt;CMC&lt;/a&gt; in New York, and the &lt;a href=&quot;http://c4dm.eecs.qmul.ac.uk&quot;&gt;C4DM&lt;/a&gt; (Queen Mary) in London. These will host residencies where the research team will organise workshops and symposia on key research themes: instrument design, musical notation, phonography (including machine listening), and music in digital media. Workshops and symposia will be advertised here and on other media outlets.&lt;/p&gt;
-
-&lt;p&gt;The project is in many ways building on the experiences and knowledge gained from running the highly active &lt;a href=&quot;http://www.livecodenetwork.org&quot;&gt;Live Code Research Network&lt;/a&gt; together with &lt;a href=&quot;http://yaxu.org&quot;&gt;Alex McLean&lt;/a&gt;. The past two years have been amazing and I thank you Alex for the wonderful collaboration.&lt;/p&gt;
-
-&lt;p&gt;The project will result in various outputs: software, papers, articles, symposia, an international conference (&lt;a href=&quot;http://www.liveinterfaces.org/&quot;&gt;ICLI&lt;/a&gt;), and a book. For news and updates on events, please follow &lt;a href=&quot;http://www.twitter.com/thormagnusson&quot;&gt;@thormagnusson&lt;/a&gt; on Twitter.&lt;/p&gt;
-
-&lt;p&gt;Launching an extensive research project is exciting: feelings of anticipation, curiosity, and adventure coalseque with the agitation involving entering territories of the unknown. With me on the journey are two other research team members, &lt;a href=&quot;http://www.samduffysax.webspace.virginmedia.com/indexSamDuffySinger/Home.html&quot;&gt;Sam Duffy&lt;/a&gt; and &lt;a href=&quot;http://alexanderpeverett.com&quot;&gt;Alex Peverett&lt;/a&gt;, who are perfectly placed to make this journey both academically fruitful and fun. Here is to the next two years!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Feb 2016 15:00:00 +0000</pubDate>
-        <link>http://www.sonicwriting.org/blog/helloworld</link>
-        <guid isPermaLink="true">http://www.sonicwriting.org/blog/helloworld</guid>
+        <link>http://localhost:4000/blog/icli</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/icli</guid>
         
         
       </item>
