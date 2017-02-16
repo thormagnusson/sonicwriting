@@ -8,7 +8,7 @@ twitter: True
 comments: True
 ---
 
-This three day workshop is offered to students at <a href="http://www.khib.no">KHiB</a> (Kunst- og designhøgskolen i Bergen), <a href="http://www.bas.org/en/About-BAS">Architecture</a>, <a href="http://www.skrivekunst.no">Creative writing</a> (Skrivekunstakademiet i Hordaland) and <a href="http://www.uib.no/en/grieg">The Grieg Academy</a> (Griegakademiet). The workshop will explore our writing practices with a particular focus on sound. Ranging from abstract poetry, concrete poetry, textual musical notation, algorithmic notation, secondary musical notation, and graphic notation are all forms of writing that we will engage with during the workshop. We will make musical instruments, considering how their design is a process of writing. The workshop will be highly interdisciplinary - with participants from institutions of divergent practices - and we will apply knowledge from the diverse fields to the experimental and explorative process in thinking about sound, writing sound, about composing instruments, writing algorithms, speaking notes, drawing movement in time. 
+This three day workshop is offered to students at <a href="http://www.uib.no/en/kmd">UiB</a> (The Faculty of Fine Art, Music and Design), <a href="http://www.bas.org/en/About-BAS">BAS</a>,  (Bergen School of Architecture), and <a href="http://www.skrivekunst.no">Creative writing</a> (Skrivekunstakademiet i Hordaland). The workshop will explore our writing practices with a particular focus on sound. Ranging from abstract poetry, concrete poetry, textual musical notation, algorithmic notation, secondary musical notation, and graphic notation are all forms of writing that we will engage with during the workshop. We will make musical instruments, considering how their design is a process of writing. The workshop will be highly interdisciplinary - with participants from institutions of divergent practices - and we will apply knowledge from the diverse fields to the experimental and explorative process in thinking about sound, writing sound, about composing instruments, writing algorithms, speaking notes, drawing movement in time. 
 
 <p><center><img src="{{ site.baseurl }}/img/logo.png" alt="Sonic Writing Logo">
 </center></p>
@@ -33,7 +33,7 @@ The workshop will start in the morning on a meeting and a discussion about the d
 
 Morning sessions: 10:00-12:00  Wednesday, Thursday, Friday <br>
 Afternoon sessions: 15:00-17:00 Wednesday, Thursday, Friday <br>
-Final presentation session: 12:00 - Sunday <br>
+Final presentation session: 10:30 - Sunday (A Sonic Writing Brunch) <br>
 
 A more precise time-table with topics will be presented at the start of the workshop.
 
