@@ -5,13 +5,13 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Feb 2017 10:54:15 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 10:54:15 +0000</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 09:43:43 +0100</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 09:43:43 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Sonic Writing workshop at Lydgalleriet</title>
-        <description>&lt;p&gt;This three day workshop is offered to students at &lt;a href=&quot;http://www.khib.no&quot;&gt;KHiB&lt;/a&gt; (Kunst- og designhøgskolen i Bergen), &lt;a href=&quot;http://www.bas.org/en/About-BAS&quot;&gt;Architecture&lt;/a&gt;, &lt;a href=&quot;http://www.skrivekunst.no&quot;&gt;Creative writing&lt;/a&gt; (Skrivekunstakademiet i Hordaland) and &lt;a href=&quot;http://www.uib.no/en/grieg&quot;&gt;The Grieg Academy&lt;/a&gt; (Griegakademiet). The workshop will explore our writing practices with a particular focus on sound. Ranging from abstract poetry, concrete poetry, textual musical notation, algorithmic notation, secondary musical notation, and graphic notation are all forms of writing that we will engage with during the workshop. We will make musical instruments, considering how their design is a process of writing. The workshop will be highly interdisciplinary - with participants from institutions of divergent practices - and we will apply knowledge from the diverse fields to the experimental and explorative process in thinking about sound, writing sound, about composing instruments, writing algorithms, speaking notes, drawing movement in time.&lt;/p&gt;
+        <description>&lt;p&gt;This three day workshop is offered to students at &lt;a href=&quot;http://www.uib.no/en/kmd&quot;&gt;UiB&lt;/a&gt; (The Faculty of Fine Art, Music and Design), &lt;a href=&quot;http://www.bas.org/en/About-BAS&quot;&gt;BAS&lt;/a&gt;,  (Bergen School of Architecture), and &lt;a href=&quot;http://www.skrivekunst.no&quot;&gt;Creative writing&lt;/a&gt; (Skrivekunstakademiet i Hordaland). The workshop will explore our writing practices with a particular focus on sound. Ranging from abstract poetry, concrete poetry, textual musical notation, algorithmic notation, secondary musical notation, and graphic notation are all forms of writing that we will engage with during the workshop. We will make musical instruments, considering how their design is a process of writing. The workshop will be highly interdisciplinary - with participants from institutions of divergent practices - and we will apply knowledge from the diverse fields to the experimental and explorative process in thinking about sound, writing sound, about composing instruments, writing algorithms, speaking notes, drawing movement in time.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/logo.png&quot; alt=&quot;Sonic Writing Logo&quot; /&gt;
 &lt;/center&gt;&lt;/p&gt;
@@ -36,7 +36,7 @@
 
 &lt;p&gt;Morning sessions: 10:00-12:00  Wednesday, Thursday, Friday &lt;br /&gt;
 Afternoon sessions: 15:00-17:00 Wednesday, Thursday, Friday &lt;br /&gt;
-Final presentation session: 12:00 - Sunday &lt;br /&gt;&lt;/p&gt;
+Final presentation session: 10:30 - Sunday (A Sonic Writing Brunch) &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;A more precise time-table with topics will be presented at the start of the workshop.&lt;/p&gt;
 
@@ -50,12 +50,14 @@ Final presentation session: 12:00 - Sunday &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;The Workshop Leaders&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Bergsveinn Birgisson&lt;/b&gt; is writer based in Bergen. He has published three books of poetry, four novels and a doctoral thesis focused on the cognitive and aesthetic aspects of Skaldic poetry from pre-Christian times. He writes in Icelandic and Norwegian. He has studied different traditional chanting techniques in Scandinavia. In his doctoral thesis he developed a analytic-method on poetry based on cognitive linguistics and psychology. Bergsveinn is currently working on a novel where feelings are in focus. 
-https://no.wikipedia.org/wiki/Bergsveinn_Birgisson&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bergsveinn Birgisson&lt;/b&gt; is writer based in Bergen. He has published three books of poetry, four novels and a doctoral thesis focused on the cognitive and aesthetic aspects of Skaldic poetry from pre-Christian times. He writes in Icelandic and Norwegian. He has studied different traditional chanting techniques in Scandinavia. In his doctoral thesis he developed a analytic-method on poetry based on cognitive linguistics and psychology. Bergsveinn is currently working on a novel where feelings are in focus.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; is a lecturer in Music at the University of Sussex. His work focusses on the impact digital technologies have on musical creativity and practice, explored through software development, composition and performance. He is the co-founder of &lt;a href=&quot;http://www.ixi-audio.net&quot;&gt;ixi audio&lt;/a&gt;, and has developed audio software, systems of generative music composition, written computer music tutorials and created two musical live coding environments. As part of ixi, he has taught workshops in creative music coding and sound installations, and given presentations, performances and visiting lectures at diverse art institutions, conservatories, and universities internationally. Thor is currently working on a book called Sonic Writing, to be published by Bloomsbury in 2018.
-www.sonicwriting.org 
-www.twitter.com/thormagnusson&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://no.wikipedia.org/wiki/Bergsveinn_Birgisson&quot;&gt;https://no.wikipedia.org/wiki/Bergsveinn_Birgisson&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Thor Magnusson&lt;/b&gt; is a lecturer in Music at the University of Sussex. His work focusses on the impact digital technologies have on musical creativity and practice, explored through software development, composition and performance. He is the co-founder of &lt;a href=&quot;http://www.ixi-audio.net&quot;&gt;ixi audio&lt;/a&gt;, and has developed audio software, systems of generative music composition, written computer music tutorials and created two musical live coding environments. As part of ixi, he has taught workshops in creative music coding and sound installations, and given presentations, performances and visiting lectures at diverse art institutions, conservatories, and universities internationally. Thor is currently working on a book called Sonic Writing, to be published by Bloomsbury in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sonicwriting.org&quot;&gt;www.sonicwriting.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.twitter.com/thormagnusson&quot;&gt;www.twitter.com/thormagnusson&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Feb 2017 09:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/workshop</link>
