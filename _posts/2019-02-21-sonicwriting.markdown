@@ -36,3 +36,7 @@ Bloomsbury gave me a discount code that can be used if you purchase the book on 
 <a href="http://www.sussex.ac.uk/shl/">
 <img border="0" alt="SHL logo" src="/img/shl.jpg" width="80" height="80">
 </a>
+<a href="http://www.sussex.ac.uk/music">
+<img border="0" alt="Sussex logo" src="/img/USlogo.jpg" width="80" height="80">
+</a>
+

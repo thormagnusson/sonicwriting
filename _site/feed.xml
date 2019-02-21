@@ -5,9 +5,50 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 21 Feb 2019 08:23:55 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Feb 2019 08:23:55 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Feb 2019 09:22:29 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 09:22:29 +0000</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Sonic Writing - A book on new musics and technologies</title>
+        <description>&lt;p&gt;Sonic Writing is now out with &lt;a href=&quot;https://www.bloomsbury.com/uk/sonic-writing-9781501313868/&quot;&gt;Bloomsbury Academic&lt;/a&gt;. This monograph is the final outcome of an &lt;a href=&quot;https://ahrc.ukri.org&quot;&gt;AHRC&lt;/a&gt; funded &lt;a href=&quot;http://www.sonicwriting.org&quot;&gt;research project&lt;/a&gt; that ran between 2016 and 2018. The book is divided into four key parts: &lt;b&gt;instruments&lt;/b&gt; (material inscriptions), &lt;b&gt;notation&lt;/b&gt; (symbolic inscriptions), &lt;b&gt;recording&lt;/b&gt; (signal inscriptions), and &lt;b&gt;new music technologies&lt;/b&gt;, or how our analogue and electronic traditions are translated and applied in the design of digital instruments. As part of this research I ran symposia and workshops at &lt;a href=&quot;http://steim.org&quot;&gt;STEIM&lt;/a&gt;, &lt;a href=&quot;https://www.ircam.fr&quot;&gt;IRCAM&lt;/a&gt;, &lt;a href=&quot;http://c4dm.eecs.qmul.ac.uk&quot;&gt;C4DM&lt;/a&gt;, &lt;a href=&quot;https://cmc.music.columbia.edu&quot;&gt;CMC&lt;/a&gt; and &lt;a href=&quot;https://cnmat.berkeley.edu&quot;&gt;CNMAT&lt;/a&gt;; all events, places and people that greatly inspired the way the book developed. Through discussions with colleagues working on cutting-edge research, a more refined understanding of the integrated relationship between contemporary music and its technology began to emerge, and I hope I was able to represent that vision in my book.&lt;/p&gt;
+
+&lt;p&gt;Travelling during the two years of my research grant I had the opportunity to interview people whose practice shapes the changes I describe in my book. I am extremely grateful to these people: Kristina Andersen, Margaret Birley, Ken Butler, Ed Campion, Suzanne Ciani, Nick Collins, Pierre Couprie, Pete Furniss, Brad Garton, Rama Gottfried, Derek Holzer, Hans Jóhannsson, Shinji Kanki, Roger Linn, James McCartney, Alex McLean, Andrew McPherson, Claudia Molitor, Sarah Nicolls, Godfried-Willem Raes, Christopher Redgate, Ryan Ross Smith, Laetitia Sonami, Laurie Spiegel, Dan Stowell, Bob Sturm, Enrique Tomás, Ge Wang, Anna Xambó, and Pamela Z. I have the feeling that more material will emerge as a result of these interviews.&lt;/p&gt;
+
+&lt;p&gt;I hope the book manages to convey the unique relationship we have with our musical instruments - our technologies for making sound. I’ve come to realise there are very few things that we have such an intimate and caring relationship with. The relationship with our music technologies has evolved over millennia and through instruments, systems design, theory, notation, phonography, computational creativity and now machine learning and AI. At all times music has been at the cusp of our technological understanding. Sonic Writing tries to understand the role of technologies of music making in musical and cultural practices.&lt;/p&gt;
+
+&lt;p&gt;A sample chapter can be read by clicking on this image:
+&lt;a href=&quot;https://bloomsburycp3.codemantra.com/viewer/5c58b483713c090001cc13c9&quot;&gt;
+&lt;img border=&quot;0&quot; alt=&quot;W3Schools&quot; src=&quot;/img/boneband.jpg&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Although I enjoy writing, initially I wasn’t sure if a printed book would be the right format for this type of research. Perhaps an online publication where I could link to sounds, videos, pictures, and artist websites would be more practical? Where people could comment, add notes, and further contribute to the development of the research. However, in the end the printed book format was simply too attractive, or, as it says in the preface: “there is a quality of the printed format that I value: to constrain, focus, write, rewrite, rehearse, rethink, review, edit and re-edit in an iterative process that involves colleagues, editors, proofreaders, and myself operating in a tradition that extends back to antiquity and is endowed with its own rules, protocols, and formats.” And I don’t regret this decision.&lt;/p&gt;
+
+&lt;p&gt;The cover artwork is a piece by Ryan Ross Smith, &lt;i&gt;Study 56&lt;/i&gt;. It is an animated notation piece where performers play from a computer generated dynamic score. I think this beautiful still suits the cover of the book, as the book is a final moment in time, a snapshot of the dynamic everchaning field of music. The piece is a generative application, and a few minutes version of it can be seen here below:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Wj8Rej53b9M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;There will be a launch party in the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt; Sussex Humanities Lab&lt;/a&gt; on March 14th - all welcome! In addition to drinks and snacks, we will hear music by &lt;a href=&quot;https://www.feedbackcell.info&quot;&gt;Feedback Cell&lt;/a&gt;, &lt;a href=&quot;https://alexanderpeverett.com&quot;&gt;Alex Peverett&lt;/a&gt; and &lt;a href=&quot;http://andrew-duff.co.uk&quot;&gt;Andrew Duff&lt;/a&gt;, and &lt;a href=&quot;https://www.evelynficarra.net/about/&quot;&gt;Evelyn Ficarra&lt;/a&gt;. All of these people have inspired the book, so I’m thrilled to have them performing during the launch.&lt;/p&gt;
+
+&lt;p&gt;Bloomsbury gave me a discount code that can be used if you purchase the book on the &lt;a href=&quot;www.bloomsbury.com/9781501313868&quot;&gt;Bloomsbury website&lt;/a&gt; : “GLR MP6”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ahrc.ukri.org&quot;&gt;
+&lt;img border=&quot;0&quot; alt=&quot;AHRC logo&quot; src=&quot;/img/ahrc.png&quot; width=&quot;220&quot; height=&quot;80&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;
+&lt;img border=&quot;0&quot; alt=&quot;SHL logo&quot; src=&quot;/img/shl.jpg&quot; width=&quot;80&quot; height=&quot;80&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;http://www.sussex.ac.uk/music&quot;&gt;
+&lt;img border=&quot;0&quot; alt=&quot;Sussex logo&quot; src=&quot;/img/USlogo.jpg&quot; width=&quot;80&quot; height=&quot;80&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Feb 2019 09:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/sonicwriting</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/sonicwriting</guid>
+        
+        
+      </item>
     
       <item>
         <title>Ergodynamics - on the haecceity of musical instruments</title>
@@ -489,59 +530,6 @@ Final presentation session: 10:30 - Sunday (A Sonic Writing Brunch) &lt;br /&gt;
         <pubDate>Wed, 19 Oct 2016 12:35:00 +0100</pubDate>
         <link>http://localhost:4000/blog/documentingICLI</link>
         <guid isPermaLink="true">http://localhost:4000/blog/documentingICLI</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>New Notations Symposium @ IRCAM</title>
-        <description>&lt;p&gt;As part of the Sonic Writing research project, we are organising a symposium with &lt;a href=&quot;http://www.ircam.fr&quot;&gt;IRCAM&lt;/a&gt;, Paris, on September 22nd, 2016. Further information on the symposium website: &lt;a href=&quot;http://www.sonicwriting.org/ircam.html&quot;&gt;New Notations Symposium&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The focus is on new notational practices in the context of recent developments in new instruments and media and key topics will address different aspects of musical instrumentalities:&lt;/p&gt;
-
-&lt;li&gt;notation and tradition - how does a notational language evolve?
-&lt;li&gt;new instruments - how does the role of notation change with new technologies?
-&lt;li&gt;the symbol and the material - do new ergonomic and timbral affordances require new symbolism?
-&lt;li&gt;the evolving instrument - how do we compose for evolving technologies?
-&lt;li&gt;notation in screen-based and computational media - what are the qualities of dynamic scores?
-&lt;li&gt;graphic notation, live notation, animated notation - how does concept of &quot;liveness&quot; change?
-&lt;li&gt;education and learning - how do we learn new notations for new digital instruments?
-&lt;li&gt;audience understanding - how do we communicate what a notation system does?
-&lt;li&gt;how does a notation system evolve, and how do we understand that evolution?
-&lt;li&gt;what does a musical notation system mediate?
-&lt;br /&gt;&lt;br /&gt;
-&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/einar.png&quot; alt=&quot;From Desiring Machines&quot; /&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;An extract of Einar Torfi Einarsson's work &lt;i&gt;Desiring Machines&lt;/i&gt;&lt;/span&gt;&lt;/center&gt;
-
-The symposium blurb:&lt;br /&gt;
-&lt;cite&gt;
-&lt;p&gt;The &lt;a href=&quot;http://www.sonicwriting.org/ircam.html&quot;&gt;New Notations Symposium&lt;/a&gt; at IRCAM explores current notational practices in the writing for new instruments and media. The aim is to study the changes in notational strategies that are brought forward with new music technologies, where graphics, animation, and algorithmic techniques offer extended compositional possibilities. Musical notation and instruments evolve in parallel, and we find that in much contemporary work, the notation system becomes part of the instrument, or even an integral part of the musical piece itself. Processor-based media enable dynamic score systems that are applied to generate musical events in real-time or respond to instrumental performances in ways traditional media are not capable of.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, with the increased analytical power gained with machine listening technologies, we find that auxillary notations of timbre, gesture, and affect become important aspects of the &quot;writing&quot; of a musical work. Contemporary composers study this potential of new notation, and this symposium looks into the design of new instruments from ergonomic and timbral perspectives and studies how musical notation develops in concert with these changes.&lt;/p&gt;
-
-&lt;p&gt;Symposium topics include musical notation for new instruments, secondary notation, graphic or algorithmic notation, live and animated notation, usability, sustainability and legacy, tradition, issues of learning, audience communication, and more. The symposium consists of presentations, performances, and discussions. It is an open event, as long as space is available. For people interested in participating in the symposium, please fill in the registration form below.&lt;/p&gt;
-&lt;/cite&gt;
-
-&lt;p&gt;Presenters at the symposium are:&lt;br /&gt;
-
-&lt;a href=&quot;http://ultranoise.es/blog/&quot;&gt;Enrique Tomás&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.claudiamolitor.org&quot;&gt;Claudia Molitor&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://frederic-bevilacqua.net&quot;&gt;Frédéric Bevilacqua&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.uitti.org&quot;&gt;Frances-Marie Uitti&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.orpheusinstituut.be/en/persons/jonathan-impett&quot;&gt;Jonathan Impett&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.socasites.qub.ac.uk/fschroeder/&quot;&gt;Franziska Schroeder&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;http://www.sussex.ac.uk/profiles/240005&quot;&gt;Sally Jane Norman&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://pavlosantoniadis.wordpress.com/about&quot;&gt;Pavlos Antoniadis&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;http://einartorfieinarsson.com&quot;&gt;Einar Torfi Einarsson&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.ryanrosssmith.com&quot;&gt;Ryan Ross Smith&lt;/a&gt;&lt;br /&gt;
- Dominique Fober&lt;br /&gt;
-&lt;a href=&quot;http://thormagnusson.github.io&quot;&gt;Thor Magnusson&lt;/a&gt;&lt;br /&gt;
-
-&lt;/p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
-</description>
-        <pubDate>Thu, 01 Sep 2016 14:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/newnotations</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/newnotations</guid>
         
         
       </item>
