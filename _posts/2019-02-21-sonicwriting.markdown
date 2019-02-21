@@ -12,9 +12,9 @@ Sonic Writing is now out with <a href="https://www.bloomsbury.com/uk/sonic-writi
 
 Travelling during the two years of my research grant I had the opportunity to interview people whose practice shapes the changes I describe in my book. I am extremely grateful to these people: Kristina Andersen, Margaret Birley, Ken Butler, Ed Campion, Suzanne Ciani, Nick Collins, Pierre Couprie, Pete Furniss, Brad Garton, Rama Gottfried, Derek Holzer, Hans Jóhannsson, Shinji Kanki, Roger Linn, James McCartney, Alex McLean, Andrew McPherson, Claudia Molitor, Sarah Nicolls, Godfried-Willem Raes, Christopher Redgate, Ryan Ross Smith, Laetitia Sonami, Laurie Spiegel, Dan Stowell, Bob Sturm, Enrique Tomás, Ge Wang, Anna Xambó, and Pamela Z. I have the feeling that more material will emerge as a result of these interviews.
 
-I hope the book manages to convey the unique relationship we have with our musical instruments - our technologies for making sound. I've come to realise there are very few things that we have such an intimate and caring relationship with. The relationship with our music technologies has evolved over millennia and through instruments, systems design, theory, notation, phonography, computational creativity and now machine learning and AI. At all times music has been at the cusp of our technological understanding. Sonic Writing tries to understand the role of technologies of music making in musical and cultural practices. 
+I hope the book manages to convey the unique relationship we have with our musical instruments - our technologies for making sound. I've come to realise there are very few things in our culture that we have such an intimate and caring relationship with. Our music technologies have evolved over millennia and through instruments, systems design, theory, notation, phonography, computational creativity and now machine learning and AI. At all times music has been at the cusp of our technological understanding, and at the same time an instrument to look into our inner self and cultural forms. Sonic Writing tries to understand the role of technologies of music making in wider cultural practices. 
 
-A sample chapter can be read by clicking on this image:
+You can read a sample chapter by clicking on this image:
 <a href="https://bloomsburycp3.codemantra.com/viewer/5c58b483713c090001cc13c9">
 <img border="0" alt="W3Schools" src="/img/boneband.jpg">
 </a>
@@ -33,7 +33,7 @@ Bloomsbury gave me a discount code that can be used if you purchase the book on 
 <a href="https://ahrc.ukri.org">
 <img border="0" alt="AHRC logo" src="/img/ahrc.png" width="220" height="80">
 </a>
-<a href="http://www.sussex.ac.uk/shl/">
+<a href="http://www.sussex.ac.uk/shl">
 <img border="0" alt="SHL logo" src="/img/shl.jpg" width="80" height="80">
 </a>
 <a href="http://www.sussex.ac.uk/music">
