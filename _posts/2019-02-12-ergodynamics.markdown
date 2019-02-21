@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Ergodynamics - on the haecceity of musical instruments"
-date:       2019-01-12 11:00:00
+date:       2019-02-12 11:00:00
 author:     "Thor Magnusson"
 header-img: "img/gibson.jpg"
 twitter: True
