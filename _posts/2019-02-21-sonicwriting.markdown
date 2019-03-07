@@ -30,7 +30,10 @@ The cover artwork is a piece by Ryan Ross Smith, <i>Study 56</i>. It is an anima
 
 There will be a launch party in the <a href="http://www.sussex.ac.uk/shl/"> Sussex Humanities Lab</a> on March 14th - all welcome! In addition to drinks and snacks, we will hear music by <a href="https://www.feedbackcell.info">Feedback Cell</a>, <a href="https://alexanderpeverett.com">Alex Peverett</a> and <a href="http://andrew-duff.co.uk">Andrew Duff</a>, and <a href="https://www.evelynficarra.net/about/">Evelyn Ficarra</a>. All of these people have inspired the book, so I’m thrilled to have them performing during the launch.
 
+<b>NOTE: As of March 1st, 2019, the book is out of print! - Bloomsbury is printing more and I will let people know when it is available again.</b>
+
 Bloomsbury gave me a discount code that can be used if you purchase the book on the <a href="http://www.bloomsbury.com/9781501313868">Bloomsbury website</a> : "GLR MP6"
+
 
 
 <a href="https://ahrc.ukri.org">
