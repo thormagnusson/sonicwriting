@@ -8,11 +8,11 @@ twitter: True
 comments: True
 ---
 
-My book, Sonic Writing, was published a year ago. I've been happy with the reception of the book and I'm glad to hear that people whose work I'm continually inspired by are praising the book and using it in their teaching and as a required reading for lab members. The book would not exist without these people and I'm very glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book.
+My book, Sonic Writing, was published a year ago. I've been surprisingly pleased with the reception of the book and to learn that people whose work I'm continually inspired by are praising the book, using it in their teaching and recommending as a required reading for lab members. The book would not exist without these people and I'm very glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book I've participated in or been made aware of.
 
 <hr>
 
-The first review of the book was by Gregory Taylor on Cycling74: <a href="https://cycling74.com/articles/book-review-sonic-writing">Book Review: Sonic Writing</a>
+The first review of the book was by Gregory Taylor on the Cycling74 page: <a href="https://cycling74.com/articles/book-review-sonic-writing">Book Review: Sonic Writing</a>
 
 <hr>
 
@@ -28,7 +28,7 @@ width="100%"></iframe>
 
 <hr>
 
-I gave a little teaser presentation of the book at the <a href="https://www.rewirefestival.nl/event/instrumental-shifts-symposium">Instrumental Shifts Symposium</a> during the Dutch ReWire festival:
+A little teaser presentation of the book at the <a href="https://www.rewirefestival.nl/event/instrumental-shifts-symposium">Instrumental Shifts Symposium</a> during the Dutch ReWire festival:
 
 <iframe src="https://player.vimeo.com/video/344784065" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -52,13 +52,11 @@ Dr Diana Chester wrote a review for the Issue 7 of the <a href="http://www.inter
 
 <hr>
 
-
 Dr John Dack wrote a review in The Journal of <a href="https://muse.jhu.edu/issue/42132">Technology and Culture</a>
 
 <iframe src="http://docs.google.com/gview?url=http://www.sonicwriting.org/media/TechnologyCulture.pdf&embedded=true" style="width:100%; height:400px;" frameborder="0"></iframe>
 
 <hr>
-
 
 Davic C. Jackson presents a review in <a href="https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1742413?">The Sound Studies Journal</a>
 
