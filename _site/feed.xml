@@ -5,9 +5,74 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Mar 2019 11:30:40 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2019 11:30:40 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <pubDate>Mon, 27 Apr 2020 20:43:24 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 20:43:24 +0000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Previews, Interviews and Reviews of Sonic Writing</title>
+        <description>&lt;p&gt;My book, Sonic Writing, was published a year ago. I’ve been happy with the reception of the book and I’m glad to hear that people whose work I’m continually inspired by are praising the book and using it in their teaching and as a required reading for lab members. The book would not exist without these people and I’m very glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The first review of the book was by Gregory Taylor on Cycling74: &lt;a href=&quot;https://cycling74.com/articles/book-review-sonic-writing&quot;&gt;Book Review: Sonic Writing&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The prolific Darwin Grosse interviewed me for the &lt;a href=&quot;http://artmusictech.libsyn.com/podcast-289-thor-magnusson&quot;&gt;Art+Music+Technology Podcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/10900775/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/&quot; height=&quot;90&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I discussed the book with Eamonn Bell from the &lt;a href=&quot;https://newbooksnetwork.com/thor-magnusson-sonic-writing-technologies-of-material-symbolic-and-signal-inscriptions-bloomsbury-academic-2019/&quot;&gt;New Books Network&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; height=&quot;220&quot; scrolling=&quot;no&quot; src=&quot;https://playlist.megaphone.fm/?e=LIT2439898405&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I gave a little teaser presentation of the book at the &lt;a href=&quot;https://www.rewirefestival.nl/event/instrumental-shifts-symposium&quot;&gt;Instrumental Shifts Symposium&lt;/a&gt; during the Dutch ReWire festival:&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/344784065&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Neural Magazine had a review of the book in their &lt;a href=&quot;http://neural.it/2020/02/thor-magnusson-sonic-writing-technologies-of-material-symbolic-and-signal-inscriptions/&quot;&gt;February Issue&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/Neural.png&quot; alt=&quot;Neural Sonic Writing Review&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Antonio Poscic wrote a review for the &lt;a href=&quot;https://reader.exacteditions.com/issues/82170/spread/1&quot;&gt;February 2019&lt;/a&gt; issue of the Wire Magazine:
+&lt;a href=&quot;/media/Wire.png&quot;&gt;
+&lt;img src=&quot;/media/Wire.png&quot; alt=&quot;Wire Sonic Writing Review&quot; width=&quot;100%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dr Diana Chester wrote a review for the Issue 7 of the &lt;a href=&quot;http://www.interferencejournal.org&quot;&gt;Interference Journal&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://docs.google.com/gview?url=/media/Interference.pdf&amp;amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dr John Dack wrote a review in The Journal of &lt;a href=&quot;https://muse.jhu.edu/issue/42132&quot;&gt;Technology and Culture&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;http://docs.google.com/gview?url=/media/TechnologyCulture.pdf&amp;amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Davic C. Jackson presents a review in &lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1742413?&quot;&gt;The Sound Studies Journal&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;http://docs.google.com/gview?url=/media/SoundStudies.pdf&amp;amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 27 Mar 2020 20:20:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/reviews</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/reviews</guid>
+        
+        
+      </item>
     
       <item>
         <title>Sonic Writing - A book on new musics and technologies</title>
@@ -111,7 +176,7 @@ Published in the &lt;a href=&quot;https://www.cambridge.org/core/journals/tempo&
 
 &lt;p&gt;I feel I have gathered enough insight to take this project further. However, it is time consuming and my busy schedule does not allow for such core development. I would welcome collaborations, PhD proposals, or suggestions for grant proposals, as I am confident that this project will become reality in the near future. The next step is to discuss it with my colleagues in the &lt;a href=&quot;http://www.sussex.ac.uk/shl/&quot;&gt;Sussex Humanities Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 26 Sep 2017 13:00:00 +0100</pubDate>
+        <pubDate>Tue, 26 Sep 2017 12:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/musicalorganics</link>
         <guid isPermaLink="true">http://localhost:4000/blog/musicalorganics</guid>
         
@@ -147,7 +212,7 @@ Published in the &lt;a href=&quot;https://www.cambridge.org/core/journals/tempo&
 &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315406792&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Tue, 23 May 2017 13:00:00 +0100</pubDate>
+        <pubDate>Tue, 23 May 2017 12:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/ustrip</link>
         <guid isPermaLink="true">http://localhost:4000/blog/ustrip</guid>
         
@@ -497,41 +562,9 @@ Final presentation session: 10:30 - Sunday (A Sonic Writing Brunch) &lt;br /&gt;
 &lt;p&gt;Finally, writing this blog post, I came across this old &lt;a href=&quot;http://steim.org/wp/wp-content/uploads/2012/01/STIEM-wire.pdf&quot;&gt;The Wire article on STEIM&lt;/a&gt;. I thought it might interest some. I thank the wonderful people at STEIM for welcoming the Sonic Writing project for a residency at their great institution.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 27 Oct 2016 12:30:00 +0100</pubDate>
+        <pubDate>Thu, 27 Oct 2016 11:30:00 +0000</pubDate>
         <link>http://localhost:4000/blog/rememberingsteim</link>
         <guid isPermaLink="true">http://localhost:4000/blog/rememberingsteim</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Documenting Live Interfaces</title>
-        <description>&lt;p&gt;The 3rd &lt;a href=&quot;http://www.liveinterfaces.org&quot;&gt;International Conference on Live Interfaces&lt;/a&gt; was held at the University of Sussex in late June, 2016. This was the first international conference held at the newly refurbished &lt;a href=&quot;https://www.attenboroughcentre.com&quot;&gt;Attenborough Centre for the Creative Arts&lt;/a&gt; (ACCA), and the building proved to be an excellent location for such an event, with a large auditorium for performances and paper sessions, as well as smaller rooms, called “towers”, for workshops, installations and posters, and the ACCA café bar which opens out onto the lawns for workshops in the sunshine (between raindrops). The conference was organised by a team who are all members of the university’s &lt;a href=&quot;https://www.emutelab.org&quot;&gt;Experimental Music Technologies Lab&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Live Interfaces conference focuses on the &lt;b&gt;use of technology in the performing arts&lt;/b&gt;: how technology becomes a prosthesis of the performer’s body - how it augements, amplifies and empowers performers, whilst, at the same time, constraining, reducing and abstracting the conception of what might be possible. Liveness is crucial here: due to its real-time application this is not a technology that can be interpreted, pondered over, or selected from, but rather the situated technology of the present, the immediate and the dexterous body - it’s the technology of the stage.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/img/iclipeople.jpg&quot; alt=&quot;ICLI conference&quot; /&gt;&lt;span class=&quot;caption text-muted&quot;&gt;Pictures from ICLI performances&lt;/span&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Technology is never neutral: it enframes, encapsulates, engulfs. The philosophy of technology has given a solid account of how technology changes our work processes, our social structure, the way we think and even the way we evolve as humans (see the work of Marx, Heidegger, Ihde or Stiegler). However, we often hear statements where technology is described as an &lt;i&gt;add-on&lt;/i&gt; to artistic projects, a mere means to an end. Such narratives reduce technics to embodied knowledge, the &lt;i&gt;how&lt;/i&gt; of things, as opposed to more theory-focussed accounts, the &lt;i&gt;why&lt;/i&gt; of things; a binary model introduced as early as Plato with his articulation of &lt;i&gt;techne&lt;/i&gt; and &lt;i&gt;episteme&lt;/i&gt;. Consider, for example, the well-known account of composer Edgar Varèse calling for new instruments to express his new musical ideas. These ideas were clearly inspired by paradigm shifting developments in physics, relativity and mathematics. With electronic sound technology in its nascence, Varèse could begin to imagine the sounds of the future. The narrative has often been of Varèse as the visionary (or should we say “audionary”?) who was capable of imagining (or audioning) new sounds, and it was technology that was lagging behind his imagination (erm…). This is clearly an oversimplification as the theoretical work by Helmholtz on sound had already been published in the 1860s, largely derived from a technological framework of scientific instruments for measuring the properties of sound. We also find electronic instruments dating back to the 1880s, exemplifying the common truism that whenever a new technology emerges - such as oscillators, telecommunication, or computers - it will immediately be applied in the domain of music. Varèse’s thinking was already technologically conditioned.&lt;/p&gt;
-
-&lt;p&gt;The ICLI conference explored this symbiotic relationship between technology and artistic expression. It engaged with the complex loop of how materiality, interfaces, communication, and imagination relate; how the technological substrata presents itself as ideological frameworks, methods, aesthetics and prostheses of the human body. In order to study this relationship between new instruments and new artistic expression we invited Halldor Úlfarsson and Andrew McPherson - both instrument designers par excellence - to run two invited workshops, set up to explore such questions as:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt; How do we compose for new instruments? &lt;/li&gt;
-&lt;li&gt; Can we redesign old instruments for new music? &lt;/li&gt;
-&lt;li&gt; What happens when familiar instruments gain new expressive scope?&lt;/li&gt; 
-&lt;/ul&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Kwah12QIbK0?list=PLZYaObEdMoIynz3d18nIinob2G_pL9iXZ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;span class=&quot;caption text-muted&quot;&gt;Kate Ryder performing on the Electromagnetic Piano and Alice Eldridge on her version of the Halldorophone&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;When employing computational interface technologies in the performing arts, we face diverse problems related to how the audience interprets the role the technology takes in a performance. For example, should the technology be obvious and synchronous with performance gestures or hidden and part of the mystique of the artist? Topics of liveness, immediacy and presence, as well as mediation, signification and expression are critical and should be questioned in order to gain a deeper understanding of the role contemporary technologies play in contemporary human expression. With the Live Interfaces conference series, we are interested in exploring the philosophy of interface design, and studying how performance technologies function in their diverse art forms, as well as how we use them to communicate our intention as performers on stage.&lt;/p&gt;
-
-&lt;p&gt;The above is my quick attempt to document some of the thoughts emerging with me during this year’s ICLI conference, but there is also &lt;b&gt;proper&lt;/b&gt; documentation: the recently published &lt;a href=&quot;http://www.liveinterfaces.org/#proceedings&quot;&gt;ICLI 2016 proceedings&lt;/a&gt; contain information and the submitted pieces for the paper sessions, keynotes, doctoral colloquium, installations, workshops and performances. The proceedings have been published with &lt;a href=&quot;http://reframe.sussex.ac.uk/reframebooks/archive2016/live-interfaces/&quot;&gt;REFRAME Books&lt;/a&gt;. The conference was also documented on video, and most of the sessions can be found on the &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZYaObEdMoIynz3d18nIinob2G_pL9iXZ&quot;&gt;Emute Lab’s YouTube channel&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Oct 2016 12:35:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/documentingICLI</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/documentingICLI</guid>
         
         
       </item>
