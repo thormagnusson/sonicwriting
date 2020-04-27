@@ -3,7 +3,7 @@ layout:     post
 title:      "Previews, Interviews and Reviews of Sonic Writing"
 date:       2020-03-27 20:20:00
 author:     "Thor Magnusson"
-header-img: "img/sonicwriting.jpg"
+header-img: "img/SWcover.jpg"
 twitter: True
 comments: True
 ---
