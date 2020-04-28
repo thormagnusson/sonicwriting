@@ -18,7 +18,7 @@ As part of my travels, I had the opportunity to interview people whose practice 
 
 
 You can read a sample chapter by clicking on this image:
-<a href="https://bloomsburycp3.codemantra.com/viewer/5c58b483713c090001cc13c9">
+<a href="https://bloomsburycp3.codemantra.com/viewer/5ea80fb552faff00016b0300">
 <img border="0" alt="W3Schools" src="/img/boneband.jpg">
 </a>
 
