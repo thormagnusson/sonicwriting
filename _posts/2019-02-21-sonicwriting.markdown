@@ -44,3 +44,7 @@ Bloomsbury gave me a discount code that can be used if you purchase the book on 
 <img border="0" alt="Sussex logo" src="/img/USlogo.jpg" width="80" height="80">
 </a>
 
+
+
+<br><br>
+<font color="#FFFFFF">(c) 2016-2019 &THORN;&oacute;rhallur Magn&uacute;sson, Thorhallur Magnusson, Thor Magnusson</font>
