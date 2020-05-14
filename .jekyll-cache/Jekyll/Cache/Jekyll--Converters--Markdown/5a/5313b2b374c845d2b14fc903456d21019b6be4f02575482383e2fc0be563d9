@@ -1,4 +1,4 @@
-I"�<p>My book, Sonic Writing, was published a year ago. I’ve been surprisingly pleased with the reception of the book and to learn that people whose work I’m continually inspired by are praising the book, using it in their teaching and recommending as a required reading for lab members. The book would not exist without these people and I’m very glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book I’ve participated in or been made aware of.</p>
+I"�<p>My book, Sonic Writing, was published a year ago. I’ve been surprisingly pleased with its reception and to learn that people whose work I’m continually inspired by are praising the book, using it in their teaching and recommending it as required reading for lab members. The book would not exist without these people and I’m glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book I’ve participated in or been made aware of.</p>
 
 <hr />
 
@@ -8,12 +8,12 @@
 
 <p>The prolific Darwin Grosse interviewed me for the <a href="http://artmusictech.libsyn.com/podcast-289-thor-magnusson">Art+Music+Technology Podcast</a></p>
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/10900775/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/10900775/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" sandbox="allow-same-origin allow-scripts" allow="geolocation"></iframe>
 
 <hr />
 
 <p>I discussed the book with Eamonn Bell from the <a href="https://newbooksnetwork.com/thor-magnusson-sonic-writing-technologies-of-material-symbolic-and-signal-inscriptions-bloomsbury-academic-2019/">New Books Network</a>.</p>
-<iframe frameborder="0" height="220" scrolling="no" src="https://playlist.megaphone.fm/?e=LIT2439898405" width="100%"></iframe>
+<iframe frameborder="0" height="220" scrolling="no" src="https://playlist.megaphone.fm/?e=LIT2439898405" width="100%" sandbox="allow-same-origin allow-scripts"></iframe>
 
 <hr />
 
@@ -37,7 +37,19 @@
 <hr />
 
 <p>Dr Diana Chester wrote a review for the Issue 7 of the <a href="http://www.interferencejournal.org">Interference Journal</a></p>
-<iframe src="http://docs.google.com/gview?url=http://www.sonicwriting.org/media/Interference.pdf&amp;embedded=true" style="width:100%; height:400px;" frameborder="0"></iframe>
+
+<script src="/js/pdfobject.js"></script>
+
+<div id="pdf1"></div>
+<style>
+.pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
+</style>
+
+<script>PDFObject.embed("/media/Interference.pdf", "#pdf1");</script>
+
+<!--
+<iframe src="http://docs.google.com/gview?url=http://www.sonicwriting.org/media/Interference.pdf&embedded=true" style="width:100%; height:400px;" frameborder="0"></iframe>
+-->
 
 <hr />
 
@@ -53,4 +65,6 @@
 
 <hr />
 
+<p><br /><br /></p>
+<font color="#FFFFFF">(c) 2016-2020 &THORN;&oacute;rhallur Magn&uacute;sson, Thorhallur Magnusson, Thor Magnusson</font>
 :ET

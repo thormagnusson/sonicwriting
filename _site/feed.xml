@@ -5,8 +5,8 @@
     <description>A research blog for the AHRC funded Sonic Writing research project. This project explores how musical instrument design, musical notation techniques, and phonography is translated into current works in digital media.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 May 2020 18:49:27 +0000</pubDate>
-    <lastBuildDate>Fri, 01 May 2020 18:49:27 +0000</lastBuildDate>
+    <pubDate>Thu, 14 May 2020 12:35:54 +0000</pubDate>
+    <lastBuildDate>Thu, 14 May 2020 12:35:54 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -21,12 +21,12 @@
 
 &lt;p&gt;The prolific Darwin Grosse interviewed me for the &lt;a href=&quot;http://artmusictech.libsyn.com/podcast-289-thor-magnusson&quot;&gt;Art+Music+Technology Podcast&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/10900775/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/&quot; height=&quot;90&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/10900775/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/&quot; height=&quot;90&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot; sandbox=&quot;allow-same-origin allow-scripts&quot; allow=&quot;geolocation&quot;&gt;&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;I discussed the book with Eamonn Bell from the &lt;a href=&quot;https://newbooksnetwork.com/thor-magnusson-sonic-writing-technologies-of-material-symbolic-and-signal-inscriptions-bloomsbury-academic-2019/&quot;&gt;New Books Network&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; height=&quot;220&quot; scrolling=&quot;no&quot; src=&quot;https://playlist.megaphone.fm/?e=LIT2439898405&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+&lt;iframe frameborder=&quot;0&quot; height=&quot;220&quot; scrolling=&quot;no&quot; src=&quot;https://playlist.megaphone.fm/?e=LIT2439898405&quot; width=&quot;100%&quot; sandbox=&quot;allow-same-origin allow-scripts&quot;&gt;&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
@@ -50,22 +50,47 @@
 &lt;hr /&gt;
 
 &lt;p&gt;Dr Diana Chester wrote a review for the Issue 7 of the &lt;a href=&quot;http://www.interferencejournal.org&quot;&gt;Interference Journal&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.sonicwriting.org/media/Interference.pdf&amp;amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;script src=&quot;/js/pdfobject.js&quot;&gt;&lt;/script&gt;
+
+&lt;div id=&quot;pdf1&quot;&gt;&lt;/div&gt;
+&lt;style&gt;
+.pdfobject-container { height: 40rem; border: 1rem solid rgba(0,0,0,.1); }
+&lt;/style&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;/media/Interference.pdf&quot;, &quot;#pdf1&quot;);&lt;/script&gt;
+
+&lt;!--
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.sonicwriting.org/media/Interference.pdf&amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Dr John Dack wrote a review in The Journal of &lt;a href=&quot;https://muse.jhu.edu/issue/42132&quot;&gt;Technology and Culture&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.sonicwriting.org/media/TechnologyCulture.pdf&amp;amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;div id=&quot;pdf2&quot;&gt;&lt;/div&gt;
+&lt;script&gt;PDFObject.embed(&quot;/media/TechnologyCulture.pdf&quot;, &quot;#pdf2&quot;);&lt;/script&gt;
+
+&lt;!--
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.sonicwriting.org/media/TechnologyCulture.pdf&amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Davic C. Jackson presents a review in &lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1742413?&quot;&gt;The Sound Studies Journal&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.sonicwriting.org/media/SoundStudies.pdf&amp;amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;div id=&quot;pdf3&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;PDFObject.embed(&quot;/media/SoundStudies.pdf&quot;, &quot;#pdf3&quot;);&lt;/script&gt;
+
+&lt;!--
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.sonicwriting.org/media/SoundStudies.pdf&amp;embedded=true&quot; style=&quot;width:100%; height:400px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+--&gt;
 
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;font color=&quot;#FFFFFF&quot;&gt;(c) 2016-2020 &amp;THORN;&amp;oacute;rhallur Magn&amp;uacute;sson, Thorhallur Magnusson, Thor Magnusson&lt;/font&gt;
 </description>
         <pubDate>Mon, 27 Apr 2020 20:20:00 +0000</pubDate>
         <link>http://localhost:4000/blog/reviews</link>
@@ -109,6 +134,8 @@
 &lt;img border=&quot;0&quot; alt=&quot;Sussex logo&quot; src=&quot;/img/USlogo.jpg&quot; width=&quot;80&quot; height=&quot;80&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;font color=&quot;#FFFFFF&quot;&gt;(c) 2016-2019 &amp;THORN;&amp;oacute;rhallur Magn&amp;uacute;sson, Thorhallur Magnusson, Thor Magnusson&lt;/font&gt;
 </description>
         <pubDate>Thu, 21 Feb 2019 09:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/sonicwriting</link>
