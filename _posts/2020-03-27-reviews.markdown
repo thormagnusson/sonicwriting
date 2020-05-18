@@ -47,7 +47,7 @@ Antonio Poscic wrote a review for the <a href="https://reader.exacteditions.com/
 
 <hr>
 
-Dr Diana Chester wrote a review for the Issue 7 of the <a href="http://www.interferencejournal.org">Interference Journal</a>
+Diana Chester wrote a review for the Issue 7 of the <a href="http://www.interferencejournal.org">Interference Journal</a>
 
 <script src="/js/pdfobject.js"></script>
 <div id="pdf1"></div>
@@ -62,7 +62,7 @@ Dr Diana Chester wrote a review for the Issue 7 of the <a href="http://www.inter
 
 <hr>
 
-Dr John Dack wrote a review in The Journal of <a href="https://muse.jhu.edu/issue/42132">Technology and Culture</a>
+John Dack wrote a review in The Journal of <a href="https://muse.jhu.edu/issue/42132">Technology and Culture</a>
 
 <div id="pdf2"></div>
 <script>PDFObject.embed("/media/TechnologyCulture.pdf", "#pdf2");</script>
@@ -79,9 +79,16 @@ Davic C. Jackson presents a review in <a href="https://www.tandfonline.com/doi/f
 
 <script>PDFObject.embed("/media/SoundStudies.pdf", "#pdf3");</script>
 
-<!--
-<iframe src="http://docs.google.com/gview?url=http://www.sonicwriting.org/media/SoundStudies.pdf&embedded=true" style="width:100%; height:400px;" frameborder="0"></iframe>
--->
+
+<hr>
+
+Jack Armitage wrote a review for the <a href="https://www.tandfonline.com/doi/full/10.1080/14794713.2020.1765577">International Journal of Performance Arts and Digital Media</a>
+
+<div id="pdf4"></div>
+
+<script>PDFObject.embed("/media/IJPADM.pdf", "#pdf4");</script>
+
+
 
 <hr>
 
