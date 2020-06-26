@@ -20,7 +20,7 @@ There is also a Creative Machine Learning MOOC set up with FutureLearn. People c
 Discover the creative side of machine learning with this free course using hands-on examples.
 
 
-<p><center><img src="{{ site.baseurl }}/img/Roboviolin.png" alt="FutureLearn Workshop">
+<p><center><img src="{{ site.baseurl }}/img/RoboViolin.png" alt="FutureLearn Workshop">
 <span class="caption text-muted">Apply Creative Machine Learning</span></center></p>
 
 
