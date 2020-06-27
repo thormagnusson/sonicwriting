@@ -19,7 +19,7 @@ Our <a href="http://www.emutelab.org">Emute Lab</a> Sussex team is running a wor
 There is also a Creative Machine Learning MOOC set up with FutureLearn. People can sign up for the workshop called <a href="https://www.futurelearn.com/courses/apply-creative-machine-learning">Apply Creative Machine Learning</a> :
 Discover the creative side of machine learning with this free course using hands-on examples.
 
-In the FutureLearn MOOC is not on live coding but the general idea of creative coding using machine learning. We ask how machine learning can help in creative acts, how we might see it as yet another tool in our diverse toolbox of creative applications. Participants will gain understanding of the key principles of machine learning and how to apply these technologies in the production of new art.
+The FutureLearn MOOC is not on live coding but the general application of machine learning in creative coding. We ask how machine learning can help in creative acts, how we might see it as yet another tool in our diverse toolbox of creative applications. Participants will gain understanding of the key principles of machine learning and how to apply these technologies in the production of new art.
 
 
 <p><center><img src="{{ site.baseurl }}/img/RoboViolin.png" alt="FutureLearn Workshop">
