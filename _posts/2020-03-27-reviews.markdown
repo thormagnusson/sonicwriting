@@ -94,5 +94,18 @@ Jack Armitage wrote a review for the <a href="https://www.tandfonline.com/doi/fu
 
 
 
+<hr>
+
+Angel Alvarado Cabellow contributes an in-depth review in the <a href="https://jar-online.net/review-thor-magnusson-sonic-writing-technologies-material-symbolic-and-signal-inscriptions">Journal for Artistic Research</a>
+
+<div id="pdf5"></div>
+
+<script>PDFObject.embed("/media/JAR_Review_of_Sonic_Writing.pdf", "#pdf5");</script>
+
+
+
+<hr>
+
+
 <br><br>
 <font color="#FFFFFF">(c) 2016-2020 &THORN;&oacute;rhallur Magn&uacute;sson, Thorhallur Magnusson, Thor Magnusson</font>
