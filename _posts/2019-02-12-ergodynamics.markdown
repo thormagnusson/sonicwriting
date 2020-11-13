@@ -21,12 +21,12 @@ In the search for terminology I therefore began exploring whether the term <i>er
 
 Related terms became <i>ergomimesis</i>, <i>ergography</i>, and <i>ergophor</i>. 
 
-Coming up with a group of descriptive terms for musical instruments as a contribution to organological vocabolary is a strange thing to do, so in my self-doubt I discussed with colleagues, with Greeks, with instrumentalists, with linguists and with luthiers. I presented a paper at a <a href="http://www.liveinterfaces.org/2018/pdf/ICLI2018-Magnusson.pdf">conference</a>, wrote an article in a <a href="
+Coming up with a group of descriptive terms for musical instruments as a contribution to organological vocabulary is a strange thing to do, so in my self-doubt I discussed with colleagues, with Greeks, with instrumentalists, with linguists and with luthiers. I presented a paper at a <a href="http://users.sussex.ac.uk/~thm21/thor/pdfs/ICLI2018-Magnusson.pdf">conference</a>, wrote an article in a <a href="
 https://doi.org/10.1017/S0040298218000633">journal</a>, and gave a few <a href="https://sparc.london/touch-symposium/">talks</a> and <a href="https://www.ufg.at/Archivdetail.2267+M58916929d4d.0.html">workshops</a> about this, all with the aim to see if people could help me realising how ridiculous this excercise was. Well, they didn’t. So I used the concepts in my forthcoming book, <a href="https://bloomsbury.com/uk/sonic-writing-9781501313868/">Sonic Writing</a>. More on that book very soon!
 
 <b>References:</b>
 
-<a href="http://www.liveinterfaces.org/2018/pdf/ICLI2018-Magnusson.pdf">Ergomimesis: Towards a Language Describing Instrumental Transductions</a>
+<a href="http://users.sussex.ac.uk/~thm21/thor/pdfs/ICLI2018-Magnusson.pdf">Ergomimesis: Towards a Language Describing Instrumental Transductions</a>
 <br>
 In the proceedings of the 2018 <a href="http://www.liveinterfaces.org/2018">International Conference on Live Interfaces</a> in Porto.
 <br>
