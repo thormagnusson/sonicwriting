@@ -29,7 +29,7 @@ The project will be hosted at the <a href="https://www.lhi.is/en">Icelandic Univ
 <span class="caption text-muted">The halldorophone instrument which will be used, amongst other instruments, as a test bed for implementation of creative AI</span></center></p>
 
 
-*::: ERC Project Abstract :::*
+**::: ERC Project Abstract :::**
 
 Artificial Intelligence is becoming increasingly human-like and it is now proficient in a key human activity: musical creativity. But what does this mean? How does creative AI change our notions of art, culture and society? As new machine learning technologies begin to mirror ourselves, we need to look into that mirror and ask how AI is changing us. This project takes a pioneering leap in research about AI by answering how new creative AI transforms our relationships with technology and other people.
 
