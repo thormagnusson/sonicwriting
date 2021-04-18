@@ -12,6 +12,8 @@ The European Research Council has awarded me an <a href="https://erc.europa.eu/n
 
 Further information on the grant on the <a href="https://www.lhi.is/en/news/2-million-euro-grant-iua-erc">Iceland University of the Arts website</a>.
 
+<b>NEW: The advert for the 1st PhD position is out:  <a href="https://www.lhi.is/en/intent">INTENT - PhD Scholarship</a>.</b>
+
 Here is some context to the project (the project website will be up in due time):
 
 Artificial Intelligence is drastically changing the world we live in. Our machines have become creative, equally extending our mind and our body. Amazing technologies are emerging where machine learning can be used to parse large and small data sets, such as music or any musical behaviour, and generate new materials from that learning. New music, new sounds, new workings of our musical tools and instruments. 
