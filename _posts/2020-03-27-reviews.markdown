@@ -66,6 +66,8 @@ Diana Chester wrote a review for the Issue 7 of the <a href="http://www.interfer
 
 <hr>
 
+
+
 John Dack wrote a review in The Journal of <a href="https://muse.jhu.edu/issue/42132">Technology and Culture</a>
 
 <div id="pdf2"></div>
@@ -77,14 +79,17 @@ John Dack wrote a review in The Journal of <a href="https://muse.jhu.edu/issue/4
 
 <hr>
 
+
+
 Davic C. Jackson presents a review in <a href="https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1742413?">The Sound Studies Journal</a>
 
 <div id="pdf3"></div>
 
 <script>PDFObject.embed("/media/SoundStudies.pdf", "#pdf3");</script>
 
-
 <hr>
+
+
 
 Jack Armitage wrote a review for the <a href="https://www.tandfonline.com/doi/full/10.1080/14794713.2020.1765577">International Journal of Performance Arts and Digital Media</a>
 
@@ -92,13 +97,9 @@ Jack Armitage wrote a review for the <a href="https://www.tandfonline.com/doi/fu
 
 <script>PDFObject.embed("/media/IJPADM.pdf", "#pdf4");</script>
 
-
-
 <hr>
 
 
-
-<hr>
 
 Angel Alvarado Cabellow contributes an in-depth review in the <a href="https://jar-online.net/review-thor-magnusson-sonic-writing-technologies-material-symbolic-and-signal-inscriptions">Journal for Artistic Research</a>
 
@@ -106,10 +107,20 @@ Angel Alvarado Cabellow contributes an in-depth review in the <a href="https://j
 
 <script>PDFObject.embed("/media/JAR_Review_of_Sonic_Writing.pdf", "#pdf5");</script>
 
+<hr>
 
+
+
+Pedro Sarmento wrote a review for the <a href="https://doi.org/10.34632/jsta.2021.9789">Journal of Science and Technology of the Arts</a>
+
+<div id="pdf6"></div>
+
+<script>PDFObject.embed("/media/ScienceTechnology.pdf", "#pdf6");</script>
 
 <hr>
 
 
+
+
 <br><br>
-<font color="#FFFFFF">(c) 2016-2020 &THORN;&oacute;rhallur Magn&uacute;sson, Thorhallur Magnusson, Thor Magnusson</font>
+<font color="#FFFFFF">(c) 2016-2021 &THORN;&oacute;rhallur Magn&uacute;sson, Thorhallur Magnusson, Thor Magnusson</font>
