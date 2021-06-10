@@ -115,7 +115,7 @@ Pedro Sarmento wrote a review for the <a href="https://doi.org/10.34632/jsta.202
 
 <div id="pdf6"></div>
 
-<script>PDFObject.embed("/media/ScienceTechnology.pdf", "#pdf6");</script>
+<script>PDFObject.embed("/media/Science_Technology.pdf", "#pdf6");</script>
 
 <hr>
 
