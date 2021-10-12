@@ -8,7 +8,7 @@ twitter: True
 comments: True
 ---
 
-The European Research Council has awarded me an <a href="https://erc.europa.eu/news/CoG-recipients-2020">ERC Consolidator grant</a> for the project <i>Intelligent Instruments: Understanding 21st-Century AI Through Creative Music Technologies</i>. The five-year, 2 million Euro research project will consist of a team of postdocs, doctoral researchers and an instrument designer from the fields of music, computer science and philosophy. Further information and job adverts coming out soon. 
+The European Research Council has awarded me an <a href="https://erc.europa.eu/news/CoG-recipients-2020">ERC Consolidator grant</a> for the project <i>Intelligent Instruments: Understanding 21st-Century AI Through Creative Music Technologies</i>. The five-year, 2 million Euro research programme will consist of a team of postdocs, doctoral researchers and an instrument designer from the fields of music, computer science and philosophy. Further information and job adverts coming out soon. 
 
 Further information on the grant on the <a href="https://www.lhi.is/en/news/2-million-euro-grant-iua-erc">Iceland University of the Arts website</a>.
 
