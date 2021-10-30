@@ -8,7 +8,7 @@ twitter: True
 comments: True
 ---
 
-My book, Sonic Writing, was published a year ago. I've been surprisingly pleased with its reception and to learn that people whose work I'm continually inspired by are praising the book, using it in their teaching and recommending it as required reading for lab members. The book would not exist without these people and I'm glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book I've participated in or been made aware of.
+My book, <a href="https://www.bloomsbury.com/sonic-writing-9781501313868/">Sonic Writing</a>, was published a year ago. I've been surprisingly pleased with its reception and to learn that people whose work I'm continually inspired by are praising the book, using it in their teaching and recommending it as required reading for lab members. The book would not exist without these people and I'm glad that ideas are feeding back the other direction too. Here below I present a mix of interviews, presentations and reviews of the book I've participated in or been made aware of.
 
 <hr>
 
