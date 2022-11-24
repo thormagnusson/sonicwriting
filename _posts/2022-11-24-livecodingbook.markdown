@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Live Coding: A User's Manual"
-date:       2022-11-24 18:00:00
+date:       2022-11-24 12:00:00
 author:     "Thor Magnusson"
 header-img: "img/livecodingcover.png"
 twitter: True
